@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-06-24 13:36">
+    <shop>
+        <name>2emarket</name>
+        <company>2emarket</company>
+        <url>https://2emarket.ru/goods/</url>
+        <platform>Webasyst Shop-Script</platform>
+        <version>8.22.0</version>
+        <enable_auto_discounts>false</enable_auto_discounts>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1268">Измерительные приборы</category>
+            <category id="1332" parentId="1268">Видеоскопы</category>
+            <category id="1315" parentId="1268">Прочие измерительные приборы</category>
+            <category id="1270">Гаджеты</category>
+            <category id="1297" parentId="1270">Для дома</category>
+            <category id="1395" parentId="1297">Электронные системы Умный дом</category>
+            <category id="1269">Авто и мото товары</category>
+            <category id="1300" parentId="1269">OBD сканеры</category>
+            <category id="1276">Компьютерная техника</category>
+            <category id="1334" parentId="1276">Периферийные устройства</category>
+            <category id="1355" parentId="1334">Клавиатуры</category>
+            <category id="1273">Аудио и видео</category>
+            <category id="1308" parentId="1273">Кабели и разъемы для аудио- и видеотехники</category>
+            <category id="1281" parentId="1273">&#13;Конверторы и переходники</category>
+            <category id="1322" parentId="1269">Аксессуары для мототехники</category>
+            <category id="1293" parentId="1276">Звуковые карты</category>
+            <category id="1326" parentId="1273">Микрофоны</category>
+            <category id="1320" parentId="1273">Блютуз устройства</category>
+            <category id="1272">Аксессуары для приставок</category>
+            <category id="1284" parentId="1276">Кабели, разъемы, переходники</category>
+            <category id="1330" parentId="1273">Видеокамеры</category>
+            <category id="1388" parentId="1330">&#13;Аксессуары для экшн-камер</category>
+            <category id="1377" parentId="1334">Мыши</category>
+            <category id="1271">Аксессуары для проекторов</category>
+            <category id="1288" parentId="1271">Подставки и кронштейны</category>
+            <category id="1290" parentId="1272">Пульты</category>
+            <category id="1280" parentId="1271">Проекционные экраны</category>
+            <category id="1396" parentId="1297">Кухонные весы</category>
+            <category id="1391" parentId="1297">Настольные часы</category>
+            <category id="1347" parentId="1315">Лабораторное оборудование</category>
+            <category id="1390" parentId="1297">Электрические паяльники и паяльные наборы</category>
+            <category id="1403" parentId="1390">Сопутствующие товары для пайки</category>
+            <category id="1286" parentId="1270">Товары для животных</category>
+            <category id="1367" parentId="1286">Поилки и кормушки</category>
+            <category id="1389" parentId="1297">Метеостанции, термометры и барометры</category>
+            <category id="1275">Аксессуары для мобильных телефонов</category>
+            <category id="1306" parentId="1275">Зарядные устройства и адаптеры</category>
+            <category id="1405" parentId="1395">Реле для умного дома</category>
+            <category id="1398" parentId="1297">Кухонные термометры и таймеры</category>
+            <category id="1331" parentId="1268">Оптические приборы</category>
+            <category id="1363" parentId="1331">Лупы</category>
+            <category id="1343" parentId="1331">Цифровые микроскопы</category>
+            <category id="1312" parentId="1270">Товары для туризма и отдыха на природе</category>
+            <category id="1364" parentId="1312">Металлоискатели</category>
+            <category id="1348" parentId="1312">Товары для охоты и рыбалки</category>
+            <category id="1401" parentId="1348">Альтиметры</category>
+            <category id="1301" parentId="1268">Пирометры и тепловизоры</category>
+            <category id="1344" parentId="1297">Противопожарное оборудование</category>
+            <category id="1341" parentId="1286">Ошейники</category>
+            <category id="1378" parentId="1315">Мультиметры и тестеры</category>
+            <category id="1310" parentId="1268">Измерение расстояний, длин</category>
+            <category id="1346" parentId="1310">Дальномеры</category>
+            <category id="1379" parentId="1297">Инструмент</category>
+            <category id="1362" parentId="1310">Штангенциркули</category>
+            <category id="1387" parentId="1297">Датчики утечки газа</category>
+            <category id="1316" parentId="1269">Толщиномеры</category>
+            <category id="1511">ТВ-приставки и медиаплееры</category>
+            <category id="1291" parentId="1511">Стационарные медиаплееры</category>
+            <category id="1265">Проекторы</category>
+            <category id="1311" parentId="1273">TV-тюнеры</category>
+            <category id="1397" parentId="1297">Розетки, выключатели</category>
+            <category id="1352" parentId="1334">Рули, джойстики, геймпады</category>
+            <category id="1517" parentId="1269">Автомобильные чайники и кофеварки</category>
+            <category id="1278" parentId="1275">Внешние аккумуляторы</category>
+            <category id="1399" parentId="1297">Товары для здоровья</category>
+            <category id="1540" parentId="1399">Термометры</category>
+            <category id="1539" parentId="1399">Пульсометры и шагомеры</category>
+            <category id="1535">Детские товары</category>
+            <category id="1292" parentId="1273">&#13;Разветвители HDMI</category>
+            <category id="1337" parentId="1320">Блютуз приемники</category>
+            <category id="1360" parentId="1297">Сетевое оборудование Wi-Fi и Bluetooth</category>
+            <category id="1333" parentId="1273">Фотоаппараты</category>
+            <category id="1546" parentId="1273">Проигрыватели виниловых дисков</category>
+            <category id="1368" parentId="1330">Мини-камеры</category>
+            <category id="1516" parentId="1273">Аудиоусилители</category>
+            <category id="1544" parentId="1331">Бинокли и зрительные трубы</category>
+            <category id="1514" parentId="1273">Батарейки и аккумуляторы</category>
+            <category id="1304" parentId="1271">Пульты</category>
+            <category id="1543" parentId="1276">Видеозахват</category>
+            <category id="1370" parentId="1320">Блютуз 2 в 1</category>
+            <category id="1537" parentId="1312">Фонари</category>
+            <category id="1547" parentId="1297">Солнечные электростанции и комплектующие</category>
+            <category id="1394" parentId="1297">Освещение</category>
+            <category id="1329" parentId="1273">Наушники и Bluetooth-гарнитуры</category>
+            <category id="1361" parentId="1329">Беспроводные</category>
+            <category id="1549" parentId="1394">Ночники и декоративные светильники</category>
+            <category id="1513" parentId="1269">Автомобильные инверторы</category>
+        </categories>
+        <offers>
+            <offer id="15601">
+                <name>Технический эндоскоп с монитором SYZZ-HD (3715)</name>
+                <price>7962.00</price>
+                <url>https://2emarket.ru/goods/tekhnicheskiy-endoskop-s-monitorom-syzz-hd/</url>
+                <count>1</count>
+                <currencyId>RUB</currencyId>
+                <categoryId>1332</categoryId>
+                <picture>https://2emarket.ru/wa-data/public/shop/products/07/32/13207/images/14635/14635.970.jpg</picture>
+                <picture>https://2emarket.ru/wa-data/public/shop/products/07/32/13207/images/14636/14636.970.jpg</picture>
+                <picture>https://2emarket.ru/wa-data/public/shop/products/07/32/13207/images/14637/14637.970.jpg</picture>
+                <weight>0.20</weight>
+            </offer>
+            <offer id="15689">
+                <name>Анемометр измеритель скорости ветра Benetech GM816 (3825)</name>
+                <vendor>Benetech</vendor>
+                <price>1899.60</price>
+                <oldprice>2000.00</oldprice>
+                <url>https://2emarket.ru/goods/anemometr-izmeritel-skorosti-vetra-gm816/</url>
+                <count>32</count>
+                <currencyId>RUB</currencyId>
+                <categoryId>1315</categoryId>
+                <picture>https://2emarket.ru/wa-data/public/shop/products/95/32/13295/images/12806/12806.970.jpg</picture>
+                <picture>https://2emarket.ru/wa-data/public/shop/products/95/32/13295/images/12807/12807.970.jpg</picture>
+                <picture>https://2emarket.ru/wa-data/public/shop/products/95/32/13295/images/12808/12808.970.jpg</picture>
+                <picture>https://2emarket.ru/wa-data/public/shop/products/95/32/13295/images/12809/12809.970.jpg</picture>
+                <picture>https://2emarket.ru/wa-data/public/shop/products/95/32/13295/images/12810/12810.970.jpg</picture>
+                <picture>https://2emarket.ru/wa-data/public/shop/products/95/32/13295/images/12811/12811.970.jpg</picture>
+                <picture>https://2emarket.ru/wa-data/public/shop/products/95/32/13295/images/12812/12812.970.jpg</picture>
+                <weight>0.10</weight>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
