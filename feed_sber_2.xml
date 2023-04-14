@@ -1,0 +1,2748 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2023-04-14 15:55">
+	<shop>
+		<company>ИП Куликов Егор Ростиславович</company>
+		<currencies>
+			<currency id="RUR" rate="1"></currency>
+		</currencies>
+		<categories>
+			<category id="490">Смартфон Apple</category>
+			<category id="99">Портативная колонка</category>
+			<category id="89">Жёсткий диск (HDD)</category>
+			<category id="1">!NotFound</category>
+			<category id="194">Сетевое зарядное устройство</category>
+			<category id="27">Монитор</category>
+			<category id="128">Видеорегистратор</category>
+			<category id="79">Фен</category>
+			<category id="40">Модуль памяти</category>
+			<category id="41">Блок питания</category>
+			<category id="213">Автомагнитола</category>
+			<category id="9">Микроволновая печь</category>
+			<category id="379">Автомобильная лампа</category>
+			<category id="3">Твердотельный накопитель (SSD)</category>
+			<category id="340">Термос</category>
+			<category id="37">Кулер для воды</category>
+			<category id="69">Картридж для лазерного принтера</category>
+			<category id="51">Проводная мышь</category>
+			<category id="312">Беспроводная мышь</category>
+			<category id="13">Материнская плата</category>
+			<category id="56">Клавиатура</category>
+			<category id="55">Внешний жёсткий диск (HDD)</category>
+			<category id="38">Видеокарта</category>
+			<category id="119">Вентилятор для корпуса</category>
+			<category id="82">Лазерное МФУ</category>
+			<category id="172">Лазерный принтер</category>
+			<category id="176">IP-камера</category>
+			<category id="54">Wi-Fi роутер</category>
+			<category id="4">Смартфон</category>
+			<category id="90">Электрочайник</category>
+			<category id="20">Тостер</category>
+			<category id="318">Бытовая химия</category>
+			<category id="349">Станок для заточки</category>
+			<category id="113">Светодиодная лампа</category>
+			<category id="6">Мультиварка</category>
+			<category id="134">Внешний корпус для SSD/HDD</category>
+			<category id="221">Напольный вентилятор</category>
+			<category id="284">Автомобильная колонка</category>
+		</categories>
+		<offers>
+			<offer available="true" id="6111111">
+				<name>Смартфон Apple iPhone 14 Pro 128Gb Space Black (MPXU3J/A)</name>
+				<price>999999</price>
+				<categoryId>490</categoryId>
+				<vendor>Apple</vendor>
+				<vendorCode>MPXU3J/A</vendorCode>
+				<model>MPXU3J/A</model>
+			</offer>
+			<offer available="true" id="6111112">
+				<name>Портативная акустика JBL Flip 6 Black (JBLFLIP6BLK)</name>
+				<price>999999</price>
+				<categoryId>99</categoryId>
+				<vendor>JBL</vendor>
+				<vendorCode>JBLFLIP6BLK</vendorCode>
+				<model>JBLFLIP6BLK</model>
+			</offer>
+			<offer available="true" id="6111113">
+				<name>Портативная акустика JBL Flip 5 Black (JBLFLIP5BLK)</name>
+				<price>999999</price>
+				<categoryId>99</categoryId>
+				<vendor>JBL</vendor>
+				<vendorCode>JBLFLIP5BLK</vendorCode>
+				<model>JBLFLIP5BLK</model>
+			</offer>
+			<offer available="true" id="6111114">
+				<name>Жесткий диск WDC SATA 2TB 6GB/S 256MB PURPLE WD22PURZ</name>
+				<price>999999</price>
+				<categoryId>89</categoryId>
+				<vendor>Western Digital</vendor>
+				<vendorCode>WD22PURZ</vendorCode>
+				<model>WD22PURZ</model>
+			</offer>
+			<offer available="true" id="6111115">
+				<name>Коврик для мыши Buro BU-M80041 рисунок/Венеция 230x180x2мм</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Buro</vendor>
+				<vendorCode>BU-M80041</vendorCode>
+				<model>BU-M80041</model>
+			</offer>
+			<offer available="true" id="6111116">
+				<name>Смартфон Apple iPhone 14 Pro Max 128Gb Space Black (MQ963J/A)</name>
+				<price>999999</price>
+				<categoryId>490</categoryId>
+				<vendor>Apple</vendor>
+				<vendorCode>MQ963J/A</vendorCode>
+				<model>MQ963J/A</model>
+			</offer>
+			<offer available="true" id="6111117">
+				<name>Смартфон Apple iPhone 14 Pro 256Gb Silver (MQ0Y3J/A)</name>
+				<price>999999</price>
+				<categoryId>490</categoryId>
+				<vendor>Apple</vendor>
+				<vendorCode>MQ0Y3J/A</vendorCode>
+				<model>MQ0Y3J/A</model>
+			</offer>
+			<offer available="true" id="6111118">
+				<name>Смартфон Apple iPhone 14 Pro 128Gb Gold (MQ073J/A)</name>
+				<price>999999</price>
+				<categoryId>490</categoryId>
+				<vendor>Apple</vendor>
+				<vendorCode>MQ073J/A</vendorCode>
+				<model>MQ073J/A</model>
+			</offer>
+			<offer available="true" id="6111119">
+				<name>Сетевое зарядное устройство Apple 20W USB-C Power Adapter (MHJE3ZM/A)</name>
+				<price>999999</price>
+				<categoryId>194</categoryId>
+				<vendor>Apple</vendor>
+				<vendorCode>MHJE3ZM/A</vendorCode>
+				<model>MHJE3ZM/A</model>
+			</offer>
+			<offer available="true" id="6111120">
+				<name>Монитор Acer CB272bmiprx 27'' 16:9 1920х1080(FHD) IPS, nonGLARE, 75 Гц, 250cd/m2, H178°/V178°, 1000:1, 100M:1, 16.7M, 1ms, VGA, HDMI, DP, Pivot, Tilt, Swivel, Speakers,регулировка по высоте, Black</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.HB2EE.001</vendorCode>
+				<model>UM.HB2EE.001</model>
+			</offer>
+			<offer available="true" id="6111121">
+				<name>Видеорегистратор Xiaomi 70mai Dash Cam 1S Midrive D06 EAC, Black</name>
+				<price>999999</price>
+				<categoryId>128</categoryId>
+				<vendor>Xiaomi</vendor>
+				<vendorCode>D06</vendorCode>
+				<model>D06</model>
+			</offer>
+			<offer available="true" id="6111122">
+				<name>Беспроводные наушники JBL Wave 100TWS Black (JBLW100TWSBLK)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>JBL</vendor>
+				<vendorCode>JBLW100TWSBLK</vendorCode>
+				<model>JBLW100TWSBLK</model>
+			</offer>
+			<offer available="true" id="6111123">
+				<name>Фен Dyson HD07 Supersonic UK, Nickel/Copper</name>
+				<price>999999</price>
+				<categoryId>79</categoryId>
+				<vendor>Dyson</vendor>
+				<vendorCode>386732-01</vendorCode>
+				<model>386732-01</model>
+			</offer>
+			<offer available="true" id="6111124">
+				<name>Оперативная память Kingston DDR4 SO-DIMM 3200Mhz PC25600 CL22 - 8 Gb (KVR32S22S8/8)</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>KVR32S22S8/8</vendorCode>
+				<model>KVR32S22S8/8</model>
+			</offer>
+			<offer available="true" id="6111125">
+				<name>Картридж лазерный Cactus CS-C054HC, Cyan</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-C054HC</vendorCode>
+				<model>CS-C054HC</model>
+			</offer>
+			<offer available="true" id="6111126">
+				<name>Картридж лазерный Cactus CS-C054HM, Magenta</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-C054HM</vendorCode>
+				<model>CS-C054HM</model>
+			</offer>
+			<offer available="true" id="6111127">
+				<name>Портативная акустика Digma S-17, Black</name>
+				<price>999999</price>
+				<categoryId>99</categoryId>
+				<vendor>Digma</vendor>
+				<vendorCode>S-17</vendorCode>
+				<model>S-17</model>
+			</offer>
+			<offer available="true" id="6111128">
+				<name>Блок питания AeroCool KCAS Plus 500W</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>4713105962642</vendorCode>
+				<model>4713105962642</model>
+			</offer>
+			<offer available="true" id="6111129">
+				<name>Смартфон Apple iPhone 14 Pro Max 128Gb Deep Purple (MQ863CH/A)</name>
+				<price>999999</price>
+				<categoryId>490</categoryId>
+				<vendor>Apple</vendor>
+				<vendorCode>MQ863CH/A</vendorCode>
+				<model>MQ863CH/A</model>
+			</offer>
+			<offer available="true" id="6111130">
+				<name>Автомагнитола Prology CMX-185</name>
+				<price>999999</price>
+				<categoryId>213</categoryId>
+				<vendor>PROLOGY</vendor>
+				<vendorCode>PRCMX185					</vendorCode>
+				<model>PRCMX185					</model>
+			</offer>
+			<offer available="true" id="6111131">
+				<name>Микроволновая Печь LG MS2044V 20 л. 700 Вт, Cеребристый</name>
+				<price>999999</price>
+				<categoryId>9</categoryId>
+				<vendor>LG</vendor>
+				<vendorCode>MS2044V					</vendorCode>
+				<model>MS2044V					</model>
+			</offer>
+			<offer available="true" id="6111132">
+				<name>Лампа автомобильная ксеноновая Sho-Me D2S/C-4300K D2S 12В 35Вт (упак.:2шт) 4300K</name>
+				<price>999999</price>
+				<categoryId>379</categoryId>
+				<vendor>SHO-ME</vendor>
+				<vendorCode>D2S/C-4300K</vendorCode>
+				<model>D2S/C-4300K</model>
+			</offer>
+			<offer available="true" id="6111133">
+				<name>Жесткий диск Western Digital WD Gold 1 ТБ WD1005FBYZ</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Western Digital</vendor>
+				<vendorCode>WD1005FBYZ</vendorCode>
+				<model>WD1005FBYZ</model>
+			</offer>
+			<offer available="true" id="6111134">
+				<name>Термос Арктика 102-750 0.75л., Swamp (102-750/SWAM)</name>
+				<price>999999</price>
+				<categoryId>340</categoryId>
+				<vendor>АРКТИКА</vendor>
+				<vendorCode>102-750/SWAM</vendorCode>
+				<model>102-750/SWAM</model>
+			</offer>
+			<offer available="true" id="6111135">
+				<name>Термос Арктика 106-2200P 2.2л., Black (106-2200P/BLA)</name>
+				<price>999999</price>
+				<categoryId>340</categoryId>
+				<vendor>АРКТИКА</vendor>
+				<vendorCode>106-2200P/BLA</vendorCode>
+				<model>106-2200P/BLA</model>
+			</offer>
+			<offer available="true" id="6111136">
+				<name>Термос Арктика 101-750P 0.75л., Silver (101-750P/SIL)</name>
+				<price>999999</price>
+				<categoryId>340</categoryId>
+				<vendor>АРКТИКА</vendor>
+				<vendorCode>101-750P/SIL</vendorCode>
+				<model>101-750P/SIL</model>
+			</offer>
+			<offer available="true" id="6111137">
+				<name>Помпа для 19л бутыли Hotfrost A6 механический голубой/серый блистер 230400601</name>
+				<price>999999</price>
+				<categoryId>37</categoryId>
+				<vendor>HotFrost</vendor>
+				<vendorCode>230400601</vendorCode>
+				<model>230400601</model>
+			</offer>
+			<offer available="true" id="6111138">
+				<name>Блок питания Aerocool KCAS PLUS 1200GM V2 (ACPG-KPK2FEC.12)</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>ACPG-KPK2FEC.12</vendorCode>
+				<model>ACPG-KPK2FEC.12</model>
+			</offer>
+			<offer available="true" id="6111139">
+				<name>Тонер Картридж Cactus CS-TK1160 черный (7200стр.) для Kyocera Ecosys P2040dn/P2040dw</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK1160</vendorCode>
+				<model>CS-TK1160</model>
+			</offer>
+			<offer available="true" id="6111140">
+				<name>Тонер Картридж Cactus CS-TK3160 черный (12500стр.) для Kyocera Ecosys P3045dn/P3050dn/P3055dn/P3060d</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK3160</vendorCode>
+				<model>CS-TK3160</model>
+			</offer>
+			<offer available="true" id="6111141">
+				<name>Картридж лазерный Cactus CS-TK3190 черный (25000стр.) для Kyocera Ecosys P3055dn/P3060dn</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK3190</vendorCode>
+				<model>CS-TK3190</model>
+			</offer>
+			<offer available="true" id="6111142">
+				<name>Картридж Cactus CS-CF218A Black для HP LJ M104/ M132</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF218A</vendorCode>
+				<model>CS-CF218A</model>
+			</offer>
+			<offer available="true" id="6111143">
+				<name>Тонер Картридж Cactus CS-CF230A черный (1600стр.) для HP LJ 203/227</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF230A</vendorCode>
+				<model>CS-CF230A</model>
+			</offer>
+			<offer available="true" id="6111144">
+				<name>Картридж Cactus CS-CF230X, CF230X, черный / CS-CF230X</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF230X</vendorCode>
+				<model>CS-CF230X</model>
+			</offer>
+			<offer available="true" id="6111145">
+				<name>Картридж Cactus CS-TK5220BK Black для Kyocera Ecosys M5521cdn/M5521cdw/P5021cdn/P5021cdw</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK5220BK</vendorCode>
+				<model>CS-TK5220BK</model>
+			</offer>
+			<offer available="true" id="6111146">
+				<name>Картридж лазерный Cactus CS-TK5230BK TK-5230BK черный (2600стр.) для Kyocera Ecosys M5521cdn/M5521cdw/P5021cdn/P5021cdw</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK5230BK</vendorCode>
+				<model>CS-TK5230BK</model>
+			</offer>
+			<offer available="true" id="6111147">
+				<name>Картридж лазерный Cactus CS-TK5230C голубой (2600стр.) для Kyocera Ecosys M5521cdn/M5521cdw/P5021cdn/P5021cdw</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK5230C</vendorCode>
+				<model>CS-TK5230C</model>
+			</offer>
+			<offer available="true" id="6111148">
+				<name>Картридж лазерный Cactus CS-TK5230M пурпурный (2600стр.) для Kyocera Ecosys M5521cdn/M5521cdw/P5021cdn/P5021cdw</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK5230M</vendorCode>
+				<model>CS-TK5230M</model>
+			</offer>
+			<offer available="true" id="6111149">
+				<name>Картридж лазерный Cactus CS-TK5230Y желтый (2600стр.) для Kyocera Ecosys M5521cdn/M5521cdw/P5021cdn/P5021cdw</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK5230Y</vendorCode>
+				<model>CS-TK5230Y</model>
+			</offer>
+			<offer available="true" id="6111150">
+				<name>Картридж Cactus CS-TK5240M Magenta для Kyocera Ecosys M5526cdn/M5526cdw/P5026cdn/P5026cdw</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK5240M</vendorCode>
+				<model>CS-TK5240M</model>
+			</offer>
+			<offer available="true" id="6111151">
+				<name>Картридж лазерный Cactus 106R03623 CS-PH3330X черный (15000стр.) для Xerox Phaser 3330/WC3335</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-PH3330X</vendorCode>
+				<model>CS-PH3330X</model>
+			</offer>
+			<offer available="true" id="6111152">
+				<name>Картридж лазерный Cactus CS-TK8115BK черный (12000стр.) для Kyocera Mita Ecosys M8124cidn/M8130cidn</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK8115BK</vendorCode>
+				<model>CS-TK8115BK</model>
+			</offer>
+			<offer available="true" id="6111153">
+				<name>Картридж Cactus CS-TK8115C для Kyocera Mita Ecosys M8124cidn/M8130cidn (CS-TK8115C)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK8115C</vendorCode>
+				<model>CS-TK8115C</model>
+			</offer>
+			<offer available="true" id="6111154">
+				<name>Картридж лазерный Cactus CS-TK8115M пурпурный (6000стр.) для Kyocera Mita Ecosys M8124cidn/M8130cidn</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK8115M</vendorCode>
+				<model>CS-TK8115M</model>
+			</offer>
+			<offer available="true" id="6111155">
+				<name>Картридж лазерный Cactus CS-TK8115Y желтый (6000стр.) для Kyocera Mita Ecosys M8124cidn/M8130cidn</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK8115Y</vendorCode>
+				<model>CS-TK8115Y</model>
+			</offer>
+			<offer available="true" id="6111156">
+				<name>Картридж Cactus CS-CF244A Black для HP LJ M15 Pro/M15a Pro/M28a Pro MFP/M28w Pro MFP</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF244A</vendorCode>
+				<model>CS-CF244A</model>
+			</offer>
+			<offer available="true" id="6111157">
+				<name>Картридж Cactus CS-TK1200 Black для Kyocera Ecosys P2335d/P2335dn/P2335dw/M2235dn/M2735dn/M2835dw</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK1200</vendorCode>
+				<model>CS-TK1200</model>
+			</offer>
+			<offer available="true" id="6111158">
+				<name>Картридж Cactus CS-C052H Black для Canon MF421/426/428/429/LBP 212/214/215</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-C052H</vendorCode>
+				<model>CS-C052H</model>
+			</offer>
+			<offer available="true" id="6111159">
+				<name>Картридж CACTUS CS-CF218XL, черный</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF218XL</vendorCode>
+				<model>CS-CF218XL</model>
+			</offer>
+			<offer available="true" id="6111160">
+				<name>Картридж CACTUS CS-CF244X черный</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF244X</vendorCode>
+				<model>CS-CF244X</model>
+			</offer>
+			<offer available="true" id="6111161">
+				<name>Картридж лазерный Cactus CS-CF280X-MPS черный (13000стр.) для HP LJ Pro 400/M401/M425</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF280X-MPS</vendorCode>
+				<model>CS-CF280X-MPS</model>
+			</offer>
+			<offer available="true" id="6111162">
+				<name>Картридж лазерный Cactus CS-CF226X-MPS черный (12000стр.) для HP LJ M402d/M402n/M426dw/M426fdn/M426fdw</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF226X-MPS</vendorCode>
+				<model>CS-CF226X-MPS</model>
+			</offer>
+			<offer available="true" id="6111163">
+				<name>Картридж лазерный Pantum TL-420X черный (6000стр.) для Pantum Series P3010/M6700/M6800/P3300/M7100/M7200/P3300/M7100/M7300</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>TL-420X</vendorCode>
+				<model>TL-420X</model>
+			</offer>
+			<offer available="true" id="6111164">
+				<name>Картридж Cactus CS-C051H для CANON LBP 162dw MF 264dw 267dw 269dw</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-C051H</vendorCode>
+				<model>CS-C051H</model>
+			</offer>
+			<offer available="true" id="6111165">
+				<name>Картридж CACTUS CS-Q2612X-MPS, черный</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-Q2612X-MPS</vendorCode>
+				<model>CS-Q2612X-MPS</model>
+			</offer>
+			<offer available="true" id="6111166">
+				<name>Картридж лазерный Cactus CS-CE285X-MPS черный (3000стр.) для HP LJ M1130 MFP/ M1132MFP Pro/P1102s Pro/ P1103 Pro</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CE285X-MPS</vendorCode>
+				<model>CS-CE285X-MPS</model>
+			</offer>
+			<offer available="true" id="6111167">
+				<name>Картридж лазерный Cactus CS-TK1140-MPS черный (14400стр.) для Kyocera FS-1035/1135/M2535dn</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK1140-MPS</vendorCode>
+				<model>CS-TK1140-MPS</model>
+			</offer>
+			<offer available="true" id="6111168">
+				<name>Картридж лазерный Cactus CS-CF259X черный (10000стр.) для HP LJ M304/M404/MFP M428</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF259X</vendorCode>
+				<model>CS-CF259X</model>
+			</offer>
+			<offer available="true" id="6111169">
+				<name>Картридж струйный Cactus CS-EPT9661 черный (795мл) для Epson WorkForce Pro WF-M5299DW/M5799DWF</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-EPT9661</vendorCode>
+				<model>CS-EPT9661</model>
+			</offer>
+			<offer available="true" id="6111170">
+				<name>Картридж лазерный Cactus CS-CE278X-MPS черный (3000стр.) для HP LJ P1566/P1606w</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CE278X-MPS</vendorCode>
+				<model>CS-CE278X-MPS</model>
+			</offer>
+			<offer available="true" id="6111171">
+				<name>Картридж струйный Cactus CS-C8765 черный №131 для HP DJ5743/6543/6843, PhotoSmart2613/2713 (17ml)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-C8765</vendorCode>
+				<model>CS-C8765</model>
+			</offer>
+			<offer available="true" id="6111172">
+				<name>Тонер-картридж Cactus CS-C737 черный для CANON MF210/211/212/216/217/220 (2400стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-C737</vendorCode>
+				<model>CS-C737</model>
+			</offer>
+			<offer available="true" id="6111173">
+				<name>Тонер Картридж Cactus CS-PH3260 106R02778 черный для Xerox Phaser 3052/3052NI/3260 (3000стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-PH3260</vendorCode>
+				<model>CS-PH3260</model>
+			</offer>
+			<offer available="true" id="6111174">
+				<name>Тонер Картридж Cactus CS-TN2335 черный для Brother DCP L2500/L2520/L2540/L2560 (1200стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TN2335</vendorCode>
+				<model>CS-TN2335</model>
+			</offer>
+			<offer available="true" id="6111175">
+				<name>Тонер Картридж Cactus CS-TN2375 черный для Brother DCP L2500/L2520/L2540/L2560 (2600стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TN2375</vendorCode>
+				<model>CS-TN2375</model>
+			</offer>
+			<offer available="true" id="6111176">
+				<name>Картридж CACTUS CS-CF400X черный</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF400X</vendorCode>
+				<model>CS-CF400X</model>
+			</offer>
+			<offer available="true" id="6111177">
+				<name>Картридж струйный Cactus CS-PGI1400XLBK черный для Canon MB2050/MB2350/MB2040/MB2340 (36мл)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-PGI1400XLBK</vendorCode>
+				<model>CS-PGI1400XLBK</model>
+			</offer>
+			<offer available="true" id="6111178">
+				<name>Картридж струйный Cactus CS-PGI1400XLY желтый для Canon MB2050/MB2350/MB2040/MB2340 (11.5мл)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-PGI1400XLY</vendorCode>
+				<model>CS-PGI1400XLY</model>
+			</offer>
+			<offer available="true" id="6111179">
+				<name>Тонер Картридж Cactus CS-CF226X черный для HP LJ M402d/M402n/M426dw/M426fdn/M426fdw (9000стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF226X</vendorCode>
+				<model>CS-CF226X</model>
+			</offer>
+			<offer available="true" id="6111180">
+				<name>Картридж струйный Cactus CS-CLI471XLBK фото черный для Canon Pixma iP7240/MG6340/MG5440</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CLI471XLBK</vendorCode>
+				<model>CS-CLI471XLBK</model>
+			</offer>
+			<offer available="true" id="6111181">
+				<name>Картридж Cactus CS-CLI471XLC Cyan для Canon MG5740/MG6840/MG7740</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CLI471XLC</vendorCode>
+				<model>CS-CLI471XLC</model>
+			</offer>
+			<offer available="true" id="6111182">
+				<name>Картридж Cactus Black для LJ M506dn/M506n/M506x</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF287X</vendorCode>
+				<model>CS-CF287X</model>
+			</offer>
+			<offer available="true" id="6111183">
+				<name>Тонер-Картридж Cactus CS-TK3130 черный для Kyocera Mita FS 4200/4300/4200DN/4300DN/M3550idn Ecosys/6</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK3130</vendorCode>
+				<model>CS-TK3130</model>
+			</offer>
+			<offer available="true" id="6111184">
+				<name>Картридж Cactus CS-PH3020 Black для Xerox Phaser 3020/3020BI</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-PH3020</vendorCode>
+				<model>CS-PH3020</model>
+			</offer>
+			<offer available="true" id="6111185">
+				<name>Картридж Cactus CS-TK1170 Black для Kyocera Ecosys M2040dn/ M2540dn/M2640idw</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK1170.</vendorCode>
+				<model>CS-TK1170.</model>
+			</offer>
+			<offer available="true" id="6111186">
+				<name>Картридж матричный Cactus CS-IR40 черный/красный для Citizen IR40T/IR50 CX123/CX120</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-IR40</vendorCode>
+				<model>CS-IR40</model>
+			</offer>
+			<offer available="true" id="6111187">
+				<name>Картридж матричный Cactus CS-LX350 черный для Epson LX350/LQ350/ERC19/VP80K</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-LX350</vendorCode>
+				<model>CS-LX350</model>
+			</offer>
+			<offer available="true" id="6111188">
+				<name>Картридж ленточный Cactus CS-ERC28 фиолетовый для Epson ERC28/M2000</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-ERC28</vendorCode>
+				<model>CS-ERC28</model>
+			</offer>
+			<offer available="true" id="6111189">
+				<name>Тонер Картридж Cactus CS-TN3480 черный (8000стр.) для Brother DCP L5500DN/ L6600DW</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TN3480</vendorCode>
+				<model>CS-TN3480</model>
+			</offer>
+			<offer available="true" id="6111190">
+				<name>Картридж лазерный Cactus CS-TN1095 черный (1500стр.) для Brother DCP 1602/1602R</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TN1095</vendorCode>
+				<model>CS-TN1095</model>
+			</offer>
+			<offer available="true" id="6111191">
+				<name>Картридж струйный Cactus CS-CLI426BK черный для Canon MG5140 5240 6140 8140 MX884 (8, 2ml)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CLI426BK</vendorCode>
+				<model>CS-CLI426BK</model>
+			</offer>
+			<offer available="true" id="6111192">
+				<name>Картридж струйный Cactus CS-PGI425BK черный для Canon Pixma iP4840, MG5140/5240/6140 (16ml)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-PGI425BK</vendorCode>
+				<model>CS-PGI425BK</model>
+			</offer>
+			<offer available="true" id="6111193">
+				<name>Тонер-картридж Cactus CS-C703 черный для CANON LBP-2900/3000 Series (2000стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-C703</vendorCode>
+				<model>CS-C703</model>
+			</offer>
+			<offer available="true" id="6111194">
+				<name>Картридж ленточный Cactus CS-ERC09 пурпурный для EPSON ERC09</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-ERC09</vendorCode>
+				<model>CS-ERC09</model>
+			</offer>
+			<offer available="true" id="6111195">
+				<name>Картридж ленточный Cactus CS-FX2190 черный для Epson FX-2190/LQ-2090</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-FX2190</vendorCode>
+				<model>CS-FX2190</model>
+			</offer>
+			<offer available="true" id="6111196">
+				<name>Картридж ленточный Cactus CS-FX890 черный для EPSON FX-890/LQ-590</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-FX890</vendorCode>
+				<model>CS-FX890</model>
+			</offer>
+			<offer available="true" id="6111197">
+				<name>Картридж ленточный Cactus CS-LQ800 черный для EPSON LQ-300/5xx/800/850/ERC-19/LX-300/300+/400/FX-8xx</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-LQ800</vendorCode>
+				<model>CS-LQ800</model>
+			</offer>
+			<offer available="true" id="6111198">
+				<name>Картридж ленточный Cactus CS-ND77 пурпурный для Nixdorf ND77 (3000000стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-ND77</vendorCode>
+				<model>CS-ND77</model>
+			</offer>
+			<offer available="true" id="6111199">
+				<name>Картридж лазерный Kyocera TK-895M 1T02K0BNL0 пурпурный (6000стр.) для Kyocera FS-C8020/C8025</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>1T02K0BNL0</vendorCode>
+				<model>1T02K0BNL0</model>
+			</offer>
+			<offer available="true" id="6111200">
+				<name>Тонер-картридж Cactus CS-C719H черный для Canon MF5840dni/5880dni, LBP6300i/6650i (6400стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-C719H</vendorCode>
+				<model>CS-C719H</model>
+			</offer>
+			<offer available="true" id="6111201">
+				<name>Тонер-картридж Cactus CS-PH3010 (106R02181) черный для Xerox Phaser 3010, WorkCentre 3045 (1000стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-PH3010</vendorCode>
+				<model>CS-PH3010</model>
+			</offer>
+			<offer available="true" id="6111202">
+				<name>Тонер-картридж Cactus CS-TK170 черный для KYOCERA Mita FS 1320/ P2135 Ecosys (7200стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK170</vendorCode>
+				<model>CS-TK170</model>
+			</offer>
+			<offer available="true" id="6111203">
+				<name>Тонер Картридж Cactus CS-CF211A голубой для HP LaserJet Pro 200 M251/M276 (1800стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF211A</vendorCode>
+				<model>CS-CF211A</model>
+			</offer>
+			<offer available="true" id="6111204">
+				<name>Тонер Картридж Cactus CS-CF212A желтый для HP LaserJet Pro 200 M251/M276 (1800стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF212A</vendorCode>
+				<model>CS-CF212A</model>
+			</offer>
+			<offer available="true" id="6111205">
+				<name>Тонер Картридж Cactus CS-CF213A пурпурный для HP LaserJet Pro 200 M251/M276 (1800стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF213A</vendorCode>
+				<model>CS-CF213A</model>
+			</offer>
+			<offer available="true" id="6111206">
+				<name>Картридж ленточный Cactus CS-TZ231 черный для Brother 1010/1280/1280VP/2700VP</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TZ231</vendorCode>
+				<model>CS-TZ231</model>
+			</offer>
+			<offer available="true" id="6111207">
+				<name>Картридж струйный Cactus CS-PGI450 черный для Canon MG6340/5440/IP7240 (21.4мл)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-PGI450</vendorCode>
+				<model>CS-PGI450</model>
+			</offer>
+			<offer available="true" id="6111208">
+				<name>Тонер-картридж Cactus CS-Q5949X черный для HP Laser Jet 1320/ 3390/ 3392 (6000стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-Q5949X</vendorCode>
+				<model>CS-Q5949X</model>
+			</offer>
+			<offer available="true" id="6111209">
+				<name>Тонер Картридж Cactus CS-TK1140 черный для KYOCERA FS-1035MFP DP, 1135MFP (7200стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK1140</vendorCode>
+				<model>CS-TK1140</model>
+			</offer>
+			<offer available="true" id="6111210">
+				<name>Картридж ленточный Cactus CS-ERC27 черный для EPSON ERC 27</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-ERC27</vendorCode>
+				<model>CS-ERC27</model>
+			</offer>
+			<offer available="true" id="6111211">
+				<name>Картридж ленточный Cactus CS-ERC30 черный для EPSON ERC 30/34/38</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-ERC30</vendorCode>
+				<model>CS-ERC30</model>
+			</offer>
+			<offer available="true" id="6111212">
+				<name>Тонер-картридж Cactus CS-CE285A черный для HP LaserJet P1102/M1132/M1212 (1600стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CE285AS</vendorCode>
+				<model>CS-CE285AS</model>
+			</offer>
+			<offer available="true" id="6111213">
+				<name>Тонер-картридж Cactus CS-CE278A черный для HP LaserJet P1566/P1606w (2100стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CE278AS</vendorCode>
+				<model>CS-CE278AS</model>
+			</offer>
+			<offer available="true" id="6111214">
+				<name>Тонер-картридж Cactus CS-Q2612A черный для HP LJ1010/1012/1015/1018/1020/1020Plus/1022/3015/3020 (20</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-Q2612AS</vendorCode>
+				<model>CS-Q2612AS</model>
+			</offer>
+			<offer available="true" id="6111215">
+				<name>Тонер-картридж Cactus CS-CB435A черный для HP Laser Jet P1005/P1006 (1500стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CB435AS</vendorCode>
+				<model>CS-CB435AS</model>
+			</offer>
+			<offer available="true" id="6111216">
+				<name>Тонер-картридж Cactus CS-CB436A черный для HP Laser Jet P1505/M1120 mfp/M1522 mfp (2000стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CB436AS</vendorCode>
+				<model>CS-CB436AS</model>
+			</offer>
+			<offer available="true" id="6111217">
+				<name>Тонер-картридж Cactus CS-C712 черный для Canon LBP-3010 3100 (1500стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-C712S</vendorCode>
+				<model>CS-C712S</model>
+			</offer>
+			<offer available="true" id="6111218">
+				<name>Тонер-картридж Cactus CS-C728 черный для Canon i-SENSYS MF4410 MF4430 MF4450 MF4550D (2100стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-C728S</vendorCode>
+				<model>CS-C728S</model>
+			</offer>
+			<offer available="true" id="6111219">
+				<name>Тонер-картридж Cactus CS-C725 черный для принтеров Canon LBP 6000/6020/6030, 1600 стр.</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-C725S</vendorCode>
+				<model>CS-C725S</model>
+			</offer>
+			<offer available="true" id="6111220">
+				<name>Тонер Картридж Cactus CS-CF283A черный для HP LaserJet Pro MFP M125nw, MFP M127fw (1500стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF283A</vendorCode>
+				<model>CS-CF283A</model>
+			</offer>
+			<offer available="true" id="6111221">
+				<name>Тонер Картридж Cactus CS-CF283X черный для HP LaserJet Pro MFP M125nw, MFP M127fw (2500стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF283X</vendorCode>
+				<model>CS-CF283X</model>
+			</offer>
+			<offer available="true" id="6111222">
+				<name>Тонер-картридж Cactus CS-TK1110BK черный для Kyocera Mita FS 1020MFP/1040/1120MFP (2500стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK1110BK</vendorCode>
+				<model>CS-TK1110BK</model>
+			</offer>
+			<offer available="true" id="6111223">
+				<name>Тонер Картридж Cactus CS-TK3100 черный для Kyocera Ecosys FS-2100D/2100DN (12500стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-TK3100</vendorCode>
+				<model>CS-TK3100</model>
+			</offer>
+			<offer available="true" id="6111224">
+				<name>Тонер-картридж Cactus CS-CE505X черный для HP LJ P2055 (6500стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CE505XS</vendorCode>
+				<model>CS-CE505XS</model>
+			</offer>
+			<offer available="true" id="6111225">
+				<name>Тонер-картридж Cactus CS-CF280A черный для HP LJ Pro 400/M401/M425 (2700стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF280AS</vendorCode>
+				<model>CS-CF280AS</model>
+			</offer>
+			<offer available="true" id="6111226">
+				<name>Тонер-картридж Cactus CS-CE255X черный для HP LaserJet P3015 (12500стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CE255XS</vendorCode>
+				<model>CS-CE255XS</model>
+			</offer>
+			<offer available="true" id="6111227">
+				<name>Тонер-картридж Cactus CS-CE285AD (двойной) для HP LJ P1102/P1102W/M1130/M1132 (2*1600стр.)</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CE285AD</vendorCode>
+				<model>CS-CE285AD</model>
+			</offer>
+			<offer available="true" id="6111228">
+				<name>Картридж струйный Cactus CS-CZ133 №711 черный (73мл) для HP DJ T120/T520</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CZ133</vendorCode>
+				<model>CS-CZ133</model>
+			</offer>
+			<offer available="true" id="6111229">
+				<name>Картридж струйный Cactus CS-CZ130 №711 голубой (26мл) для HP DJ T120/T520</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CZ130</vendorCode>
+				<model>CS-CZ130</model>
+			</offer>
+			<offer available="true" id="6111230">
+				<name>Картридж струйный Cactus CS-CZ131 №711 пурпурный (26мл) для HP DJ T120/T520</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CZ131</vendorCode>
+				<model>CS-CZ131</model>
+			</offer>
+			<offer available="true" id="6111231">
+				<name>Блок питания AeroCool VX PLUS 350W</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>4713105962727</vendorCode>
+				<model>4713105962727</model>
+			</offer>
+			<offer available="true" id="6111232">
+				<name>Блок питания Aerocool ATX 500W VX-500 PLUS (24+4+4pin) 120mm fan 3xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>VX-500 PLUS</vendorCode>
+				<model>VX-500 PLUS</model>
+			</offer>
+			<offer available="true" id="6111233">
+				<name>Блок питания Aerocool ATX 600W VX PLUS 600W (24+4+4pin) 120mm fan 3xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>VX-600 PLUS</vendorCode>
+				<model>VX-600 PLUS</model>
+			</offer>
+			<offer available="true" id="6111234">
+				<name>Блок питания AeroCool VX-750 Plus 750W</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>4713105962802</vendorCode>
+				<model>4713105962802</model>
+			</offer>
+			<offer available="true" id="6111235">
+				<name>Блок питания Aerocool KCAS PLUS 600W</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>4713105962659</vendorCode>
+				<model>4713105962659</model>
+			</offer>
+			<offer available="true" id="6111236">
+				<name>Блок питания Aerocool ATX 800W KCAS PLUS 800 80+ bronze (24+4+4pin) APFC 120mm fan 7xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>KCAS-800W PLUS</vendorCode>
+				<model>KCAS-800W PLUS</model>
+			</offer>
+			<offer available="true" id="6111237">
+				<name>Блок питания Aerocool ATX 500W AERO WHITE 80+ (24+4+4pin) APFC 120mm fan 5xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>AERO WHITE 500</vendorCode>
+				<model>AERO WHITE 500</model>
+			</offer>
+			<offer available="true" id="6111238">
+				<name>Блок питания Aerocool ATX 650W AERO WHITE 80+ (24+4+4pin) APFC 120mm fan 5xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>AERO WHITE 650</vendorCode>
+				<model>AERO WHITE 650</model>
+			</offer>
+			<offer available="true" id="6111239">
+				<name>Блок питания Aerocool ATX 700W AERO WHITE 80+ (24+4+4pin) APFC 120mm fan 5xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>AERO WHITE 700</vendorCode>
+				<model>AERO WHITE 700</model>
+			</offer>
+			<offer available="true" id="6111240">
+				<name>Мышь Acer OMR030 черный оптическая (1600dpi) беспроводная USB (3but)</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.007</vendorCode>
+				<model>ZL.MCEEE.007</model>
+			</offer>
+			<offer available="true" id="6111241">
+				<name>Мышь Acer OMR032 черный/красный оптическая (1600dpi) беспроводная USB (3but)</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.009</vendorCode>
+				<model>ZL.MCEEE.009</model>
+			</offer>
+			<offer available="true" id="6111242">
+				<name>Мышь беспроводная Acer OMR050,1600dpi, Bluetooth/Wireless USB, Черный ZL.MCEEE.00B</name>
+				<price>999999</price>
+				<categoryId>312</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.00B</vendorCode>
+				<model>ZL.MCEEE.00B</model>
+			</offer>
+			<offer available="true" id="6111243">
+				<name>Мышь беспроводная Acer OMR070,1600dpi, Bluetooth/Wireless USB, Черный ZL.MCEEE.00D</name>
+				<price>999999</price>
+				<categoryId>312</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.00D</vendorCode>
+				<model>ZL.MCEEE.00D</model>
+			</offer>
+			<offer available="true" id="6111244">
+				<name>Мышь Acer OMW010</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.001</vendorCode>
+				<model>ZL.MCEEE.001</model>
+			</offer>
+			<offer available="true" id="6111245">
+				<name>Мышь Acer OMW011 черный/синий оптическая (1200dpi) USB (3but) ZL.MCEEE.002</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.002</vendorCode>
+				<model>ZL.MCEEE.002</model>
+			</offer>
+			<offer available="true" id="6111246">
+				<name>Мышь Acer OMW012 USB</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.003</vendorCode>
+				<model>ZL.MCEEE.003</model>
+			</offer>
+			<offer available="true" id="6111247">
+				<name>Блок питания ATX2.31 550W GP-P550B GIGABYTE</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>GP-P550B</vendorCode>
+				<model>GP-P550B</model>
+			</offer>
+			<offer available="true" id="6111248">
+				<name>Блок питания GigaByte GP-P650B 650W</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>GP-P650B</vendorCode>
+				<model>GP-P650B</model>
+			</offer>
+			<offer available="true" id="6111249">
+				<name>Блок питания ATX2.31 750W GP-AP750GM GIGABYTE</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>GP-AP750GM</vendorCode>
+				<model>GP-AP750GM</model>
+			</offer>
+			<offer available="true" id="6111250">
+				<name>Блок питания Aerocool KCAS PLUS GOLD 650W ARGB, 650Вт, 120мм, черный, retail [kcas plus 650g]</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>KCAS PLUS 650G</vendorCode>
+				<model>KCAS PLUS 650G</model>
+			</offer>
+			<offer available="true" id="6111251">
+				<name>Блок питания Aerocool ATX 750W KCAS PLUS GOLD 750W RGB 80+ gold 24+2x(4+4) pin APFC 120mm fan color LED 8xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>KCAS PLUS 750G</vendorCode>
+				<model>KCAS PLUS 750G</model>
+			</offer>
+			<offer available="true" id="6111252">
+				<name>Блок питания Aerocool ATX 850W KCAS PLUS GOLD 850W ARGB 80+ gold 24+2x(4+4) pin APFC 120mm fan color LED 8xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>KCAS PLUS 850G</vendorCode>
+				<model>KCAS PLUS 850G</model>
+			</offer>
+			<offer available="true" id="6111253">
+				<name>Твердотельный накопитель SSD 2.5" Patriot 240GB Burst Elite &lt;PBE240GS25SSDR&gt; (SATA3, up to 450/320Mbs, 160TBW, 7mm)</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Patriot Memory</vendor>
+				<vendorCode>PBE240GS25SSDR</vendorCode>
+				<model>PBE240GS25SSDR</model>
+			</offer>
+			<offer available="true" id="6111254">
+				<name>Твердотельный накопитель SSD 2.5" Patriot 480GB Burst Elite &lt;PBE480GS25SSDR&gt; (SATA3, up to 450/320Mbs, 400TBW, 7mm)</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Patriot Memory</vendor>
+				<vendorCode>PBE480GS25SSDR</vendorCode>
+				<model>PBE480GS25SSDR</model>
+			</offer>
+			<offer available="true" id="6111255">
+				<name>Материнская плата Gigabyte H410M S2H V2 Soc-1200 Intel H470 2xDDR4 mATX AC`97 8ch(7.1) GbLAN+VGA+DVI+HDMI</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>H410M S2H V2</vendorCode>
+				<model>H410M S2H V2</model>
+			</offer>
+			<offer available="true" id="6111256">
+				<name>Мышь проводная Acer OMW120, 2000dpi, Черный ZL.MCEEE.00H</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.00H</vendorCode>
+				<model>ZL.MCEEE.00H</model>
+			</offer>
+			<offer available="true" id="6111257">
+				<name>Мышь беспроводная Acer OMR140, 1600dpi, Черный ZL.MCEEE.00G</name>
+				<price>999999</price>
+				<categoryId>312</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.00G</vendorCode>
+				<model>ZL.MCEEE.00G</model>
+			</offer>
+			<offer available="true" id="6111258">
+				<name>Мышь Acer OMW130, черный</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.00J</vendorCode>
+				<model>ZL.MCEEE.00J</model>
+			</offer>
+			<offer available="true" id="6111259">
+				<name>Клавиатура Acer OKW120 черный</name>
+				<price>999999</price>
+				<categoryId>56</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.KBDEE.006</vendorCode>
+				<model>ZL.KBDEE.006</model>
+			</offer>
+			<offer available="true" id="6111260">
+				<name>Мышь Acer OMW150 черный оптическая (4800dpi) USB (8but)</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.00P</vendorCode>
+				<model>ZL.MCEEE.00P</model>
+			</offer>
+			<offer available="true" id="6111261">
+				<name>Мышь Acer OMW160, черный</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.00Q</vendorCode>
+				<model>ZL.MCEEE.00Q</model>
+			</offer>
+			<offer available="true" id="6111262">
+				<name>Мышь Acer OMW180, черный</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.00S</vendorCode>
+				<model>ZL.MCEEE.00S</model>
+			</offer>
+			<offer available="true" id="6111263">
+				<name>Компьютерная мышь Acer OMW121 черный оптическая (6400dpi) USB (6but)</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>ZL.MCEEE.00U</vendorCode>
+				<model>ZL.MCEEE.00U</model>
+			</offer>
+			<offer available="true" id="6111264">
+				<name>Оперативная память 8GB AMD Radeon DDR4 3200 DIMM R9 Gamers Series Black R948G3206U2S-U Non-ECC, CL16, 1.35V, RTL (181876) R948G3206U2S-U</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>AMD</vendor>
+				<vendorCode>R948G3206U2S-U</vendorCode>
+				<model>R948G3206U2S-U</model>
+			</offer>
+			<offer available="true" id="6111265">
+				<name>Жесткий диск WD SATA-III 8Tb WD8001PURP Video Purple Pro (7200rpm) 256Mb 3.5"</name>
+				<price>999999</price>
+				<categoryId>89</categoryId>
+				<vendor>WD</vendor>
+				<vendorCode>WD8001PURP</vendorCode>
+				<model>WD8001PURP</model>
+			</offer>
+			<offer available="true" id="6111266">
+				<name>Накопитель SSD A-Data SATA III 240Gb ASU650NS38-240GT-B Ultimate SU650 M.2 2280</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>A-Data</vendor>
+				<vendorCode>ASU650NS38-240GT-B</vendorCode>
+				<model>ASU650NS38-240GT-B</model>
+			</offer>
+			<offer available="true" id="6111267">
+				<name>Жесткий диск WD Original SATA-III 2Tb WD20EZBX Blue (7200rpm) 256Mb 3.5"</name>
+				<price>999999</price>
+				<categoryId>89</categoryId>
+				<vendor>Western Digital</vendor>
+				<vendorCode>WD20EZBX</vendorCode>
+				<model>WD20EZBX</model>
+			</offer>
+			<offer available="true" id="6111268">
+				<name>Внешний жесткий диск Western Digital My Passport 1Tb Black WDBYVG0010BBK-WESN</name>
+				<price>999999</price>
+				<categoryId>55</categoryId>
+				<vendor>Western Digital</vendor>
+				<vendorCode>WDBYVG0010BBK-WESN</vendorCode>
+				<model>WDBYVG0010BBK-WESN</model>
+			</offer>
+			<offer available="true" id="6111269">
+				<name>Оперативная память 4GB AMD Radeon DDR4 2666 SO DIMM R7 Performance Series Black R744G2606S1S-U Non-ECC, CL16, 1.2V, RTL (182347) R744G2606S1S-U</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>AMD</vendor>
+				<vendorCode>R744G2606S1S-U</vendorCode>
+				<model>R744G2606S1S-U</model>
+			</offer>
+			<offer available="true" id="6111270">
+				<name>Блок питания GIGABYTE GP-UD850GM 850W</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>GP-UD850GM</vendorCode>
+				<model>GP-UD850GM</model>
+			</offer>
+			<offer available="true" id="6111271">
+				<name>Оперативная память SODIMM R7432G2606S2S-U DDR4  32Gb  2666MHz  So-DIMM  1.2V  Retail R7432G2606S2S-U</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>AMD</vendor>
+				<vendorCode>R7432G2606S2S-U</vendorCode>
+				<model>R7432G2606S2S-U</model>
+			</offer>
+			<offer available="true" id="6111272">
+				<name>Блок питания Deepcool ATX 850W DQ850-M-V2L 80+ gold (20+4pin) APFC 120mm fan 6xSATA Cab Manag RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>DP-GD-DQ850-M-V2L</vendorCode>
+				<model>DP-GD-DQ850-M-V2L</model>
+			</offer>
+			<offer available="true" id="6111273">
+				<name>Блок питания Deepcool ATX 750W DQ750-M-V2L WH 80+ gold (24+4+4pin) APFC 120mm fan 6xSATA Cab Manag RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>DP-DQ750-M-V2L WH</vendorCode>
+				<model>DP-DQ750-M-V2L WH</model>
+			</offer>
+			<offer available="true" id="6111274">
+				<name>Блок питания Deepcool ATX 850W PM850D 80+ gold 24+2x(4+4) pin APFC 120mm fan 6xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>R-PM850D-FA0B-EU</vendorCode>
+				<model>R-PM850D-FA0B-EU</model>
+			</offer>
+			<offer available="true" id="6111275">
+				<name>Блок питания Deepcool ATX 800W PM800D 80+ gold (20+4pin) APFC 120mm fan 6xSATA RTL (R-PM800D-FA0B-EU)</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>R-PM800D-FA0B-EU</vendorCode>
+				<model>R-PM800D-FA0B-EU</model>
+			</offer>
+			<offer available="true" id="6111276">
+				<name>Блок питания Deepcool ATX 800W PK800D 80+ bronze 24+2x(4+4) pin APFC 120mm fan 8xSATA RTL R-PK800D-FA0B-EU</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>R-PK800D-FA0B-EU</vendorCode>
+				<model>R-PK800D-FA0B-EU</model>
+			</offer>
+			<offer available="true" id="6111277">
+				<name>Блок питания Deepcool ATX 700W PK700D 80+ bronze 24+2x(4+4) pin APFC 120mm fan 7xSATA RTL R-PK700D-FA0B-EU</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>R-PK700D-FA0B-EU</vendorCode>
+				<model>R-PK700D-FA0B-EU</model>
+			</offer>
+			<offer available="true" id="6111278">
+				<name>Блок питания Deepcool DE v2 DP-DE600US-PH</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>DP-DE600US-PH</vendorCode>
+				<model>DP-DE600US-PH</model>
+			</offer>
+			<offer available="true" id="6111279">
+				<name>Монитор LCD 31,5'' ZeroFrame, Silver/Black, 16:9, IPS, 2560x1440, 1ms, 300cd, 75Hz, 2xHDMI(2.0) + 1xDP(2.0) + USB3.0x4+USB-B + Audio Out, 2Wx2, FreeSync, HDR 10, h.adj 150</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.JB2EE.001</vendorCode>
+				<model>UM.JB2EE.001</model>
+			</offer>
+			<offer available="true" id="6111280">
+				<name>Монитор Acer 27 Nitro KG271Gbmiix IPS 1920x1080 75Hz FreeSync 250cd/m2 16:9 UM.HX1EE.G01</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.HX1EE.G01</vendorCode>
+				<model>UM.HX1EE.G01</model>
+			</offer>
+			<offer available="true" id="6111281">
+				<name>Монитор LCD CB242Ysmiprx 23.8''  Черный, Серебристый</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.QB2EE.007</vendorCode>
+				<model>UM.QB2EE.007</model>
+			</offer>
+			<offer available="true" id="6111282">
+				<name>Жесткий диск WD SATA 4TB 6GB/S 256MB PURPLE WD42PURZ</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>WD</vendor>
+				<vendorCode>WD42PURZ</vendorCode>
+				<model>WD42PURZ</model>
+			</offer>
+			<offer available="true" id="6111283">
+				<name>Монитор LCD CB272smiprx 27"  IPS, 1920x1080, 1ms, 25027cd, 75Hz, 1xVGA + 1xHDMI(1.4) + 1xDP(1.2)</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.HB2EE.013</vendorCode>
+				<model>UM.HB2EE.013</model>
+			</offer>
+			<offer available="true" id="6111284">
+				<name>Монитор Asus 23.8 VZ24EHE черный IPS LED (90LM07C3-B03470)</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>90LM07C3-B03470</vendorCode>
+				<model>90LM07C3-B03470</model>
+			</offer>
+			<offer available="true" id="6111285">
+				<name>Монитор Asus 27 VA27DCP IPS 1920x1080</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>90LM06H5-B01370</vendorCode>
+				<model>90LM06H5-B01370</model>
+			</offer>
+			<offer available="true" id="6111286">
+				<name>Монитор Asus 27 VA27DQSB IPS 1920x1080 75Hz 250cd/m2 16:9 90LM06H7-B01370</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>90LM06H7-B01370</vendorCode>
+				<model>90LM06H7-B01370</model>
+			</offer>
+			<offer available="true" id="6111287">
+				<name>Память DDR4 8Gb 2666MHz A-Data AD4S26668G19-RGN Premier RTL PC4-21300 CL19 SO-DIMM 260-pin 1.2В single rank Ret</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>A-Data</vendor>
+				<vendorCode>AD4S26668G19-RGN</vendorCode>
+				<model>AD4S26668G19-RGN</model>
+			</offer>
+			<offer available="true" id="6111288">
+				<name>Монитор Acer B247Wbmiprzxv 24, черный [UM.FB7EE.023]</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.FB7EE.023</vendorCode>
+				<model>UM.FB7EE.023</model>
+			</offer>
+			<offer available="true" id="6111289">
+				<name>Монитор Acer Vero V277bipv</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.HV7EE.040</vendorCode>
+				<model>UM.HV7EE.040</model>
+			</offer>
+			<offer available="true" id="6111290">
+				<name>Монитор Acer 27 ED273Bbmiix VA 1920x1080 Black</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.HE3EE.B01</vendorCode>
+				<model>UM.HE3EE.B01</model>
+			</offer>
+			<offer available="true" id="6111291">
+				<name>Монитор Acer 27 ProDesigner BC270Ubmiiphzx черный</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.HB0EE.023</vendorCode>
+				<model>UM.HB0EE.023</model>
+			</offer>
+			<offer available="true" id="6111292">
+				<name>Монитор Asus 21.5" VA229QSB IPS 1920x1080 75Hz FreeSync 250cd/m2 16:9</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>90LM06C3-B02370</vendorCode>
+				<model>90LM06C3-B02370</model>
+			</offer>
+			<offer available="true" id="6111293">
+				<name>Монитор Asus 15.6 MB166B IPS 1920x1080 Black</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>90LM07D3-B02170</vendorCode>
+				<model>90LM07D3-B02170</model>
+			</offer>
+			<offer available="true" id="6111294">
+				<name>Монитор ASUS VZ239HE-W 23, белый [90lm0334-b01670]</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>90LM0334-B01670</vendorCode>
+				<model>90LM0334-B01670</model>
+			</offer>
+			<offer available="true" id="6111295">
+				<name>Монитор Asus 23" VZ239HE черный IPS LED 16:9 HDMI матовая 250cd 178гр/178гр 1920x1080 VGA FHD 2.7кг</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>90LM0333-B01670</vendorCode>
+				<model>90LM0333-B01670</model>
+			</offer>
+			<offer available="true" id="6111296">
+				<name>Монитор ACER 23,8 K242HYLHbi, VA, ZeroFrame, Black, 1920x1080, 75Hz, 1xVGA + 1xHDMI(1.4), FreeSync</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.QX2EE.H01</vendorCode>
+				<model>UM.QX2EE.H01</model>
+			</offer>
+			<offer available="true" id="6111297">
+				<name>Жесткий диск Western Digital WD5000LPSX</name>
+				<price>999999</price>
+				<categoryId>89</categoryId>
+				<vendor>Western Digital</vendor>
+				<vendorCode>WD5000LPSX</vendorCode>
+				<model>WD5000LPSX</model>
+			</offer>
+			<offer available="true" id="6111298">
+				<name>Жесткий диск WD SATA-III 2Tb 1W10002 HUS722T2TALA604 Ultrastar DC HA210 (7200rpm) 128Mb 3.5"</name>
+				<price>999999</price>
+				<categoryId>89</categoryId>
+				<vendor>WD</vendor>
+				<vendorCode>1W10002</vendorCode>
+				<model>1W10002</model>
+			</offer>
+			<offer available="true" id="6111299">
+				<name>Монитор LCD 27'' [16:9] 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 80M:1, 16,7 миллионов цветов, 1ms, VGA, HDMI, DP, USB-Hub, Height adj, Pivot, Tilt, Swivel, Speakers, Swivel, 3Y, Black</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>iiyama</vendor>
+				<vendorCode>XUB2796HSU-B1</vendorCode>
+				<model>XUB2796HSU-B1</model>
+			</offer>
+			<offer available="true" id="6111300">
+				<name>Материнская плата Asus PRIME Z790M-PLUS D4 Soc-1700 Intel Z790 4xDDR4 mATX AC`97 8ch(7.1) GbLAN RAID+HDMI+DP</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>PRIME Z790M-PLUS D4</vendorCode>
+				<model>PRIME Z790M-PLUS D4</model>
+			</offer>
+			<offer available="true" id="6111301">
+				<name>Оперативная память 8GB AMD Radeon DDR4 2666 SO DIMM R7 Performance Series Black R748G2606S2S-U Non-ECC, CL16, 1.2V, RTL (182344) R748G2606S2S-U</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>AMD</vendor>
+				<vendorCode>R748G2606S2S-U</vendorCode>
+				<model>R748G2606S2S-U</model>
+			</offer>
+			<offer available="true" id="6111302">
+				<name>Оперативная память AMD R948G3206S2S-U DDR4 8GB 3200Mhz So-DIMM 1.2V  Retail R948G3206S2S-U</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>AMD</vendor>
+				<vendorCode>R948G3206S2S-U</vendorCode>
+				<model>R948G3206S2S-U</model>
+			</offer>
+			<offer available="true" id="6111303">
+				<name>Жесткий диск WD SATA-III 1Tb WD10SPSX Notebook Black (7200rpm) 64Mb 2.5"</name>
+				<price>999999</price>
+				<categoryId>89</categoryId>
+				<vendor>WD</vendor>
+				<vendorCode>WD10SPSX</vendorCode>
+				<model>WD10SPSX</model>
+			</offer>
+			<offer available="true" id="6111304">
+				<name>Монитор Acer 23.8 V247YAbiv черный VA LED 920x1080  UM.QV7EE.A11</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.QV7EE.A11</vendorCode>
+				<model>UM.QV7EE.A11</model>
+			</offer>
+			<offer available="true" id="6111305">
+				<name>Монитор Acer 27 Nitro KG272bmiix IPS 1920x1080 75Hz FreeSync Premium 250cd/m2 16:9 (UM.HX2EE.018)</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.HX2EE.018</vendorCode>
+				<model>UM.HX2EE.018</model>
+			</offer>
+			<offer available="true" id="6111306">
+				<name>Монитор игровой Acer Vero CB243Ybemipruzxv 23.8 Черный (UM.QB3EE.006)</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.QB3EE.006</vendorCode>
+				<model>UM.QB3EE.006</model>
+			</offer>
+			<offer available="true" id="6111307">
+				<name>Видеокарта Gigabyte PCI-E 4.0 GV-N407TGAMING OC-12GD NVIDIA GeForce RTX 4070TI 12288Mb 192 GDDR6X 2640/21000 HDMIx1 DPx3 HDCP Ret</name>
+				<price>999999</price>
+				<categoryId>38</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>GV-N407TGAMING OC-12GD</vendorCode>
+				<model>GV-N407TGAMING OC-12GD</model>
+			</offer>
+			<offer available="true" id="6111308">
+				<name>Видеокарта Gigabyte PCI-E 4.0 GV-N4080GAMING OC-16GD NVIDIA GeForce RTX 4080 16384Mb 256 GDDR6X 2535/22400 HDMIx1 DPx3 HDCP Ret</name>
+				<price>999999</price>
+				<categoryId>38</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>GV-N4080GAMING OC-16GD</vendorCode>
+				<model>GV-N4080GAMING OC-16GD</model>
+			</offer>
+			<offer available="true" id="6111309">
+				<name>Монитор Acer 27" Nitro ED273UAbmiipx VA 2560x1440 75Hz FreeSync 250cd/m2 16:9</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.HE3EE.A07</vendorCode>
+				<model>UM.HE3EE.A07</model>
+			</offer>
+			<offer available="true" id="6111310">
+				<name>Монитор Acer 24 B247WbmiprxvIPS LED 4ms 16:10 HDMI M/M матовая HAS Piv 1000:1 300cd 178гр/178гр 1920x1200 VGA DP WU USB 6.2кг Черный (UM.FB7EE.022)</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.FB7EE.022</vendorCode>
+				<model>UM.FB7EE.022</model>
+			</offer>
+			<offer available="true" id="6111311">
+				<name>Жесткий диск Western Digital WD Blue Desktop 1 TB (WD10EZRZ)</name>
+				<price>999999</price>
+				<categoryId>89</categoryId>
+				<vendor>Western Digital</vendor>
+				<vendorCode>WD10EZRZ</vendorCode>
+				<model>WD10EZRZ</model>
+			</offer>
+			<offer available="true" id="6111312">
+				<name>Блок питания Aerocool SX-400 400W</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>AeroCool</vendor>
+				<vendorCode>SX-400</vendorCode>
+				<model>SX-400</model>
+			</offer>
+			<offer available="true" id="6111313">
+				<name>Монитор Acer V196LBb 19, черный [UM.CV6EE.B01]</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.CV6EE.B01</vendorCode>
+				<model>UM.CV6EE.B01</model>
+			</offer>
+			<offer available="true" id="6111314">
+				<name>Вентилятор Deepcool UF120 120x120 4-pin 18-30dB 172gr Ret</name>
+				<price>999999</price>
+				<categoryId>119</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>UF-FAN120</vendorCode>
+				<model>UF-FAN120</model>
+			</offer>
+			<offer available="true" id="6111315">
+				<name>Вентилятор для корпуса DeepCool Wind Blade 120</name>
+				<price>999999</price>
+				<categoryId>119</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>WINDBLADE120</vendorCode>
+				<model>WINDBLADE120</model>
+			</offer>
+			<offer available="true" id="6111316">
+				<name>Вентилятор для корпуса DeepCool Xfan120</name>
+				<price>999999</price>
+				<categoryId>119</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>XFAN120</vendorCode>
+				<model>XFAN120</model>
+			</offer>
+			<offer available="true" id="6111317">
+				<name>Внешний жесткий диск 1Tb A-DATA HD710 Pro Red (AHD710P-1TU31-CRD)</name>
+				<price>999999</price>
+				<categoryId>55</categoryId>
+				<vendor>A-Data</vendor>
+				<vendorCode>AHD710P-1TU31-CRD</vendorCode>
+				<model>AHD710P-1TU31-CRD</model>
+			</offer>
+			<offer available="true" id="6111318">
+				<name>HDD 3.5" 1.0TB 7200rpm SATA3 64MB WD Blue (WD10EZEX)</name>
+				<price>999999</price>
+				<categoryId>89</categoryId>
+				<vendor>Western Digital</vendor>
+				<vendorCode>WD10EZEX</vendorCode>
+				<model>WD10EZEX</model>
+			</offer>
+			<offer available="true" id="6111319">
+				<name>Принтер лазерный HP LaserJet 107a 4ZB77A</name>
+				<price>999999</price>
+				<categoryId>82</categoryId>
+				<vendor>HP</vendor>
+				<vendorCode>4ZB77A</vendorCode>
+				<model>4ZB77A</model>
+			</offer>
+			<offer available="true" id="6111320">
+				<name>Принтер HP Color Laser 150nw 4ZB95A</name>
+				<price>999999</price>
+				<categoryId>172</categoryId>
+				<vendor>HP</vendor>
+				<vendorCode>4ZB95A</vendorCode>
+				<model>4ZB95A</model>
+			</offer>
+			<offer available="true" id="6111321">
+				<name>Монитор LCD B247Ybmiprx 23.8'' [16:9] 1920х1080(FHD) IPS, nonGLARE, 75 Гц, 250cd/m2, H178°/V178°, 1000:1, 100M:1, 16.7M, 4ms, VGA, HDMI, DP, USB-Hub, Height adj, Pivot, Tilt, Swivel, Speakers, 3Y, Black</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.QB7EE.C01</vendorCode>
+				<model>UM.QB7EE.C01</model>
+			</offer>
+			<offer available="true" id="6111322">
+				<name>Монитор игровой Acer Nitro VG270bmipx 27 черный [UM.HV0EE.013]</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.HV0EE.013</vendorCode>
+				<model>UM.HV0EE.013</model>
+			</offer>
+			<offer available="true" id="6111323">
+				<name>Твердотельный накопитель Patriot Memory P210 128Gb P210S128G25</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Patriot Memory</vendor>
+				<vendorCode>P210S128G25</vendorCode>
+				<model>P210S128G25</model>
+			</offer>
+			<offer available="true" id="6111324">
+				<name>Твердотельный накопитель Patriot P210S512G25 2.5" 512GB P210 (SATA3, up to 520/430Mbs, 3D TLC, 7mm)</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Patriot Memory</vendor>
+				<vendorCode>P210S512G25</vendorCode>
+				<model>P210S512G25</model>
+			</offer>
+			<offer available="true" id="6111325">
+				<name>Монитор Acer Nitro XZ342CUPbmiiphx 34, черный [UM.CX2EE.P13]</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.CX2EE.P13</vendorCode>
+				<model>UM.CX2EE.P13</model>
+			</offer>
+			<offer available="true" id="6111326">
+				<name>Монитор Acer CB342CKsmiiphzx 34, черный [UM.CB2EE.001]</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.CB2EE.001</vendorCode>
+				<model>UM.CB2EE.001</model>
+			</offer>
+			<offer available="true" id="6111327">
+				<name>Монитор Acer 34 CB342CKCsmiiphuzx черный IPS LED (UM.CB2EE.C01)</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Acer</vendor>
+				<vendorCode>UM.CB2EE.C01</vendorCode>
+				<model>UM.CB2EE.C01</model>
+			</offer>
+			<offer available="true" id="6111328">
+				<name>Оперативная память Patriot Memory Viper Elite II DDR4 DIMM 3200MHz PC25600 CL18 - 8Gb PVE248G320C8</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot Memory</vendor>
+				<vendorCode>PVE248G320C8</vendorCode>
+				<model>PVE248G320C8</model>
+			</offer>
+			<offer available="true" id="6111329">
+				<name>Оперативная память DDR 4 DIMM 8Gb  PC28800, 3600Mhz, PATRIOT Viper 4 Elite ll (PVE248G360C0) (retail) PVE248G360C0</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot VIPER</vendor>
+				<vendorCode>PVE248G360C0</vendorCode>
+				<model>PVE248G360C0</model>
+			</offer>
+			<offer available="true" id="6111330">
+				<name>Оперативная память DIMM 8GB PC32000 DDR4 PVE248G400C0 PATRIOT</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot</vendor>
+				<vendorCode>PVE248G400C0</vendorCode>
+				<model>PVE248G400C0</model>
+			</offer>
+			<offer available="true" id="6111331">
+				<name>Оперативная память DDR 4 DIMM 16Gb (8Gb*2)  PC32000, 4000Mhz, PATRIOT Viper 4 Elite ll (PVE2416G400C0K) (retail) PVE2416G400C0K</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot Memory</vendor>
+				<vendorCode>PVE2416G400C0K</vendorCode>
+				<model>PVE2416G400C0K</model>
+			</offer>
+			<offer available="true" id="6111332">
+				<name>Оперативная память Kingston Fury Renegade Black DDR4 DIMM 3200MHz PC-25600 CL16 - 16Gb KF432C16RB1/16</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>KF432C16RB1/16</vendorCode>
+				<model>KF432C16RB1/16</model>
+			</offer>
+			<offer available="true" id="6111333">
+				<name>Оперативная память Kingston DRAM 8GB 3200MHz DDR4 CL16 DIMM FURY Renegade Black EAN: 740617322071</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>KF432C16RB/8</vendorCode>
+				<model>KF432C16RB/8</model>
+			</offer>
+			<offer available="true" id="6111334">
+				<name>Оперативная память Kingston Fury Black DDR4 DIMM 3600Mhz PC28800 CL17 - 16Gb Kit (2x8Gb) KF436C17BBK2/16</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>KF436C17BBK2/16</vendorCode>
+				<model>KF436C17BBK2/16</model>
+			</offer>
+			<offer available="true" id="6111335">
+				<name>Оперативная память Kingston Fury Renegade Black DDR4 DIMM 3600Mhz PC28800 CL17 - 16Gb (2x8Gb) KF436C16RBK2/16</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>KF436C16RBK2/16</vendorCode>
+				<model>KF436C16RBK2/16</model>
+			</offer>
+			<offer available="true" id="6111336">
+				<name>Память DDR4 8Gb 3200MHz Kingston KF432S20IB/8 Fury Impact RTL PC4-25600 CL20 SO-DIMM 260-pin 1.2В Ret</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>KF432S20IB/8</vendorCode>
+				<model>KF432S20IB/8</model>
+			</offer>
+			<offer available="true" id="6111337">
+				<name>HiWatch IPC-D042-G2/S 2.8mm</name>
+				<price>999999</price>
+				<categoryId>176</categoryId>
+				<vendor>HiWatch</vendor>
+				<vendorCode>IPC-D042-G2/S 2.8mm</vendorCode>
+				<model>IPC-D042-G2/S 2.8mm</model>
+			</offer>
+			<offer available="true" id="6111338">
+				<name>Видеокамера IP HiWatch DS-I202 (D) (4 mm) 4-4мм цветная DS-I202 (D) (4 MM)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>HiWatch</vendor>
+				<vendorCode>DS-I202 (D) (4 MM)</vendorCode>
+				<model>DS-I202 (D) (4 MM)</model>
+			</offer>
+			<offer available="true" id="6111339">
+				<name>Видеокамера IP HiWatch DS-I453M (2.8 mm) 2.8-2.8мм DS-I453M (2.8 MM)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>HiWatch</vendor>
+				<vendorCode>DS-I453M (2.8 MM)</vendorCode>
+				<model>DS-I453M (2.8 MM)</model>
+			</offer>
+			<offer available="true" id="6111340">
+				<name>Картридж для лазерного принтера Pantum CTL-1100XC голубой (2300стр.) для Pantum CP1100/CP1100DW/CM1100DN/CM1100DW/CM1100ADN/CM1100ADW</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Pantum</vendor>
+				<vendorCode>CTL-1100XC</vendorCode>
+				<model>CTL-1100XC</model>
+			</offer>
+			<offer available="true" id="6111341">
+				<name>Картридж для лазерного принтера Pantum CTL-1100XM пурпурный (2300стр.) для Pantum CP1100/CP1100DW/CM1100DN/CM1100DW/CM1100ADN/CM1100ADW</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Pantum</vendor>
+				<vendorCode>CTL-1100XM</vendorCode>
+				<model>CTL-1100XM</model>
+			</offer>
+			<offer available="true" id="6111342">
+				<name>Картридж для лазерного принтера Pantum CTL-1100XY желтый (2300стр.) для Pantum CP1100/CP1100DW/CM1100DN/CM1100DW/CM1100ADN/CM1100ADW</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Pantum</vendor>
+				<vendorCode>CTL-1100XY</vendorCode>
+				<model>CTL-1100XY</model>
+			</offer>
+			<offer available="true" id="6111343">
+				<name>Картридж для лазерного принтера Pantum CTL-1100XK черный (3000стр.) для Pantum CP1100/CP1100DW/CM1100DN/CM1100DW/CM1100ADN/CM1100ADW</name>
+				<price>999999</price>
+				<categoryId>69</categoryId>
+				<vendor>Pantum</vendor>
+				<vendorCode>CTL-1100XK</vendorCode>
+				<model>CTL-1100XK</model>
+			</offer>
+			<offer available="true" id="6111344">
+				<name>Накопитель SSD 2.5" Kingston 1920Gb DC450R Series &lt;SEDC450R/1920G&gt; (SATA3, up to 560/530Mbs, 99000 IOPS, 3D TLC, 1301TBW, 7mm)</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>SEDC450R/1920G</vendorCode>
+				<model>SEDC450R/1920G</model>
+			</offer>
+			<offer available="true" id="6111345">
+				<name>SSD диск KINGSTON SEDC1500M/960G 960Gb 2.5"</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>SEDC1500M/960G</vendorCode>
+				<model>SEDC1500M/960G</model>
+			</offer>
+			<offer available="true" id="6111346">
+				<name>Kingston Enterprise SSD 3,84TB DC1500M U.2 PCIe NVMe SSD (R3100/W2700MB/s) 1DWPD (Data Center SSD for Enterprise)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>SEDC1500M/3840G</vendorCode>
+				<model>SEDC1500M/3840G</model>
+			</offer>
+			<offer available="true" id="6111347">
+				<name>Kingston Enterprise SSD 7,68TB DC1500M U.2 PCIe NVMe SSD (R3100/W2700MB/s) 1DWPD (Data Center SSD for Enterprise)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>SEDC1500M/7680G</vendorCode>
+				<model>SEDC1500M/7680G</model>
+			</offer>
+			<offer available="true" id="6111348">
+				<name>Оперативная память Kingston DRAM 8GB 3200MHz DDR4 ECC Reg CL22 DIMM 1Rx8 Hynix D Rambus EAN: 740617308129</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>KSM32RS8/8HDR</vendorCode>
+				<model>KSM32RS8/8HDR</model>
+			</offer>
+			<offer available="true" id="6111349">
+				<name>Видеокарта MSI PCI-E 4.0 RTX 3050 VENTUS 2X 8G OC NVIDIA GeForce RTX 3050 8192Mb 128 GDDR6 1807/14000 HDMIx1 DPx3 HDCP Ret</name>
+				<price>999999</price>
+				<categoryId>38</categoryId>
+				<vendor>MSI</vendor>
+				<vendorCode>602-V397-373S</vendorCode>
+				<model>602-V397-373S</model>
+			</offer>
+			<offer available="true" id="6111350">
+				<name>Видеокарта MSI Radeon RX 6500 XT MECH 2X 4G OC, Retail
+</name>
+				<price>999999</price>
+				<categoryId>38</categoryId>
+				<vendor>MSI</vendor>
+				<vendorCode>RX 6500 XT MECH 2X 4G OC</vendorCode>
+				<model>RX 6500 XT MECH 2X 4G OC</model>
+			</offer>
+			<offer available="true" id="6111351">
+				<name>Видеокарта Gigabyte PCI-E 4.0 GV-R64D6-4GL AMD Radeon RX 6400 4096Mb 64 GDDR6 2039/16000 HDMIx1 DPx1 HDCP Ret low profile</name>
+				<price>999999</price>
+				<categoryId>38</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>GV-R64D6-4GL</vendorCode>
+				<model>GV-R64D6-4GL</model>
+			</offer>
+			<offer available="true" id="6111352">
+				<name>Видеокарта GIGABYTE Radeon RX 6750 XT GAMING OC 12G (GV-R675XTGAMING OC-12GD), Retail</name>
+				<price>999999</price>
+				<categoryId>38</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>GV-R675XTGAMING OC-12GD</vendorCode>
+				<model>GV-R675XTGAMING OC-12GD</model>
+			</offer>
+			<offer available="true" id="6111353">
+				<name>Жесткий диск Seagate SATA-III 4Tb ST4000LM024 Barracuda (5400rpm) 128Mb 2.5"</name>
+				<price>999999</price>
+				<categoryId>89</categoryId>
+				<vendor>Seagate</vendor>
+				<vendorCode>ST4000LM024</vendorCode>
+				<model>ST4000LM024</model>
+			</offer>
+			<offer available="true" id="6111354">
+				<name>Оперативная память KIMTIGO DDR4 DIMM  8ГБ 2666 МГц KMKU8G8682666</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>KIMTIGO</vendor>
+				<vendorCode>KMKU8G8682666</vendorCode>
+				<model>KMKU8G8682666</model>
+			</offer>
+			<offer available="true" id="6111355">
+				<name>Твердотельный жесткий диск (SSD) KIMTIGO KTA-300 K240S3A25KTA300 240ГБ, 2.5, SATA III K240S3A25KTA300</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>KIMTIGO</vendor>
+				<vendorCode>K240S3A25KTA300</vendorCode>
+				<model>K240S3A25KTA300</model>
+			</offer>
+			<offer available="true" id="6111356">
+				<name>Твердотельный жесткий диск SSD Kimtigo SATA III 256Gb K256S3A25KTA320 KTA-320 2.5 K256S3A25KTA320</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>KIMTIGO</vendor>
+				<vendorCode>K256S3A25KTA320</vendorCode>
+				<model>K256S3A25KTA320</model>
+			</offer>
+			<offer available="true" id="6111357">
+				<name>Твердотельный жесткий диск (SSD) Kimtigo PCI-E 3.0 256Gb K256P3M28TP3500 TP-3500 M.2 2280 K256P3M28TP3500</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>KIMTIGO</vendor>
+				<vendorCode>K256P3M28TP3500</vendorCode>
+				<model>K256P3M28TP3500</model>
+			</offer>
+			<offer available="true" id="6111358">
+				<name>Накопитель SSD Kingspec PCI-E 4.0 x4 1Tb XF-1TB M.2 2280 XF-1TB</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>KingSpec</vendor>
+				<vendorCode>XF-1TB</vendorCode>
+				<model>XF-1TB</model>
+			</offer>
+			<offer available="true" id="6111359">
+				<name>Оперативная память KINGSPEC DDR4 SO-DIMM 16ГБ 2666 МГц KS2666D4N12016G </name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>KingSpec</vendor>
+				<vendorCode>KS2666D4N12016G</vendorCode>
+				<model>KS2666D4N12016G</model>
+			</offer>
+			<offer available="true" id="6111360">
+				<name>Блок питания Deepcool ATX 1000W PQ1000M 80+ gold (20+4pin) APFC 120mm fan 5xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>R-PQA00M-FA0B-EU</vendorCode>
+				<model>R-PQA00M-FA0B-EU</model>
+			</offer>
+			<offer available="true" id="6111361">
+				<name>Блок питания Deepcool ATX 850W PQ850M 80+ gold 24+2x(4+4) pin APFC 120mm fan 10xSATA Cab Manag RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>R-PQ850M-FA0B-EU</vendorCode>
+				<model>R-PQ850M-FA0B-EU</model>
+			</offer>
+			<offer available="true" id="6111362">
+				<name>Блок питания Deepcool ATX 750W PQ750M 80+ gold (20+4pin) APFC 120mm fan 4xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>R-PQ750M-FA0B-EU</vendorCode>
+				<model>R-PQ750M-FA0B-EU</model>
+			</offer>
+			<offer available="true" id="6111363">
+				<name>Блок питания Deepcool DQ750 750W</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>DP-GD-DQ750-M-V2L</vendorCode>
+				<model>DP-GD-DQ750-M-V2L</model>
+			</offer>
+			<offer available="true" id="6111364">
+				<name>Блок питания Deepcool ATX 650W DQ650-M-V2L 80+ gold (24+4+4pin) APFC 120mm fan 8xSATA Cab Manag RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>DP-GD-DQ650-M-V2L</vendorCode>
+				<model>DP-GD-DQ650-M-V2L</model>
+			</offer>
+			<offer available="true" id="6111365">
+				<name>Блок питания Deepcool ATX 750W PM750D 80+ gold (20+4pin) APFC 120mm fan 6xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>R-PM750D-FA0B-EU</vendorCode>
+				<model>R-PM750D-FA0B-EU</model>
+			</offer>
+			<offer available="true" id="6111366">
+				<name>Блок питания Deepcool ATX 650W PK650D 80+ bronze 24+2x(4+4) pin APFC 120mm fan 7xSATA RTL R-PK650D-FA0B-EU</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>R-PK650D-FA0B-EU</vendorCode>
+				<model>R-PK650D-FA0B-EU</model>
+			</offer>
+			<offer available="true" id="6111367">
+				<name>Блок питания Deepcool ATX 500W PK500D 80+ bronze (20+4pin) APFC 120mm fan 6xSATA RTL R-PK500D-FA0B-EU</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>R-PK500D-FA0B-EU</vendorCode>
+				<model>R-PK500D-FA0B-EU</model>
+			</offer>
+			<offer available="true" id="6111368">
+				<name>Блок питания Deepcool ATX 350W DE500 V2 (24+4+4pin) APFC 120mm fan 4xSATA RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>DEEPCOOL</vendor>
+				<vendorCode>DP-DE500US-PH</vendorCode>
+				<model>DP-DE500US-PH</model>
+			</offer>
+			<offer available="true" id="6111369">
+				<name>Монитор 27 Hiper ProView UH2703YS (IPS, 3840x2160, 16:9, 178/178, 300cd/m2, 1000:1, 7ms, 60Hz, HDMI, DP, USB-C, USB-hub) (MC-R27D-60)</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>HIPER</vendor>
+				<vendorCode>MC-R27D-60</vendorCode>
+				<model>MC-R27D-60</model>
+			</offer>
+			<offer available="true" id="6111370">
+				<name>Монитор Gigabyte 23.8 G24F 2 IPS (9DG24F2-00-1ABEU)</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>9DG24F2-00-1ABEU</vendorCode>
+				<model>9DG24F2-00-1ABEU</model>
+			</offer>
+			<offer available="true" id="6111371">
+				<name>Материнская плата ASUS TUF GAMING Z690-PLUS</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>TUF GAMING Z690-PLUS</vendorCode>
+				<model>TUF GAMING Z690-PLUS</model>
+			</offer>
+			<offer available="true" id="6111372">
+				<name>Монитор Digma DM-MONB2709 27, темно-серый</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Digma</vendor>
+				<vendorCode>DM-MONB2709</vendorCode>
+				<model>DM-MONB2709</model>
+			</offer>
+			<offer available="true" id="6111373">
+				<name>Блок питания Hiper ATX 600W HPB-600FMK2 80+ gold (24+4+4pin) APFC 120mm fan 6xSATA Cab Manag RTL</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>HIPER</vendor>
+				<vendorCode>HPB-600FMK2</vendorCode>
+				<model>HPB-600FMK2</model>
+			</offer>
+			<offer available="true" id="6111374">
+				<name>Смартфон Infinix Smart 6 Plus 2/64Gb Miracle Black</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Infinix</vendor>
+				<vendorCode>4895180784989</vendorCode>
+				<model>4895180784989</model>
+			</offer>
+			<offer available="true" id="6111375">
+				<name>Роутер беспроводной D-Link DIR-620S/RU/B1A N300 10/100BASE-TX черный</name>
+				<price>999999</price>
+				<categoryId>54</categoryId>
+				<vendor>D-Link</vendor>
+				<vendorCode>DIR-620S/RU/B1A</vendorCode>
+				<model>DIR-620S/RU/B1A</model>
+			</offer>
+			<offer available="true" id="6111376">
+				<name>Внешний жесткий диск Silicon Power 1TB Stream S05, 2.5, USB 3.2, Черный</name>
+				<price>999999</price>
+				<categoryId>55</categoryId>
+				<vendor>Silicon Power</vendor>
+				<vendorCode>SP010TBPHD05SS3K</vendorCode>
+				<model>SP010TBPHD05SS3K</model>
+			</offer>
+			<offer available="true" id="6111377">
+				<name>Жесткий диск Silicon Power USB 3.0 2Tb SP020TBPHD05SS3K S05 Stream 2.5 черный</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Silicon Power</vendor>
+				<vendorCode>SP020TBPHD05SS3K</vendorCode>
+				<model>SP020TBPHD05SS3K</model>
+			</offer>
+			<offer available="true" id="6111378">
+				<name>Жесткий диск Silicon Power USB 3.0 4Tb SP040TBPHD05LS3K S05 Stream 2.5" черный SP040TBPHD05LS3K</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Silicon Power</vendor>
+				<vendorCode>SP040TBPHD05LS3K</vendorCode>
+				<model>SP040TBPHD05LS3K</model>
+			</offer>
+			<offer available="true" id="6111379">
+				<name>Монитор Asus 27 ProArt PA279CV черный IPS LED</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>90LM06M1-B01170</vendorCode>
+				<model>90LM06M1-B01170</model>
+			</offer>
+			<offer available="true" id="6111380">
+				<name>Монитор Asus 27 ProArt PA278CV черный IPS LED ( 90LM06Q0-B01370)</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>90LM06Q0-B01370</vendorCode>
+				<model>90LM06Q0-B01370</model>
+			</offer>
+			<offer available="true" id="6111381">
+				<name>Монитор Asus 23.8 ProArt PA247CV черный  90LM03Y1-B01370</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>90LM03Y1-B01370</vendorCode>
+				<model>90LM03Y1-B01370</model>
+			</offer>
+			<offer available="true" id="6111382">
+				<name>SSD-накопитель HikVision E100N 128Gb HS-SSD-E100N/128G</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Hikvision</vendor>
+				<vendorCode>HS-SSD-E100N/128G</vendorCode>
+				<model>HS-SSD-E100N/128G</model>
+			</offer>
+			<offer available="true" id="6111383">
+				<name>Накопитель SSD 128GB M.2 2280 HIKVision E1000 &lt;HS-SSD-E1000/128G&gt; 3D TLC NVMe (PCI-E)</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Hikvision</vendor>
+				<vendorCode>HS-SSD-E1000/128G</vendorCode>
+				<model>HS-SSD-E1000/128G</model>
+			</offer>
+			<offer available="true" id="6111384">
+				<name>Монитор Iiyama LCD 27'' [16:9] 3840x2160(UHD 4K) IPS, nonGLARE, 60 Гц, 300cd/m2, H178°/V178°, 1000:1, 80M:1, 1.07B, 4ms, DVI, HDMI, DP, USB-Hub, Height adj, Pivot, Tilt, Swivel, Speakers, 3Y, Black</name>
+				<price>999999</price>
+				<categoryId>27</categoryId>
+				<vendor>Iiyama</vendor>
+				<vendorCode>XUB2792UHSU-B1</vendorCode>
+				<model>XUB2792UHSU-B1</model>
+			</offer>
+			<offer available="true" id="6111385">
+				<name>Смартфон REALME C33 4/128Gb, голубой</name>
+				<price>999999</price>
+				<categoryId>4</categoryId>
+				<vendor>Realme</vendor>
+				<vendorCode>6051886</vendorCode>
+				<model>6051886</model>
+			</offer>
+			<offer available="true" id="6111386">
+				<name>Смартфон Realme C33 64 GB ROM/4 GB RAM Gold (золотистый) (6051882)</name>
+				<price>999999</price>
+				<categoryId>4</categoryId>
+				<vendor>Realme</vendor>
+				<vendorCode>6051882</vendorCode>
+				<model>6051882</model>
+			</offer>
+			<offer available="true" id="6111387">
+				<name>СМАРТФОН REALME RMX3624 (realme C33) 4/64 Gb, Aqua Blue (6051883)</name>
+				<price>999999</price>
+				<categoryId>4</categoryId>
+				<vendor>Realme</vendor>
+				<vendorCode>6051883</vendorCode>
+				<model>6051883</model>
+			</offer>
+			<offer available="true" id="6111388">
+				<name>Видеокарта Gigabyte PCI-E 4.0 GV-N4080EAGLE OC-16GD NVIDIA GeForce RTX 4080 16384Mb 256 GDDR6X 2520/22400 HDMIx1 DPx3 HDCP Ret</name>
+				<price>999999</price>
+				<categoryId>38</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>GV-N4080EAGLE OC-16GD</vendorCode>
+				<model>GV-N4080EAGLE OC-16GD</model>
+			</offer>
+			<offer available="true" id="6111389">
+				<name>Видеокарта Gigabyte PCI-E 4.0 GV-N4080AERO OC-16GD NVIDIA GeForce RTX 4080 16384Mb 256 GDDR6X 2535/22400 HDMIx1 DPx3 HDCP Ret (GV-N4080AERO OC-16GD)</name>
+				<price>999999</price>
+				<categoryId>38</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>GV-N4080AERO OC-16GD</vendorCode>
+				<model>GV-N4080AERO OC-16GD</model>
+			</offer>
+			<offer available="true" id="6111390">
+				<name>Тонер-картридж Cactus CS-CF413X Magenta для HP HP CLJ Pro M452dn/M452dw/M477fdn/M477fdw 5000стр.</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF413X</vendorCode>
+				<model>CS-CF413X</model>
+			</offer>
+			<offer available="true" id="6111391">
+				<name>Картридж CACTUS CS-CF410X черный</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF410X</vendorCode>
+				<model>CS-CF410X</model>
+			</offer>
+			<offer available="true" id="6111392">
+				<name>Картридж Cactus CS-CF402X, желтый</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF402X</vendorCode>
+				<model>CS-CF402X</model>
+			</offer>
+			<offer available="true" id="6111393">
+				<name>Картридж Cactus CS-CF403X / CF403X Magenta для HP CLJ M252/252N/252DN/252DW/M277n/M277DW</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF403X</vendorCode>
+				<model>CS-CF403X</model>
+			</offer>
+			<offer available="true" id="6111394">
+				<name>Картридж Cactus CS-CF401X, голубой</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF401X</vendorCode>
+				<model>CS-CF401X</model>
+			</offer>
+			<offer available="true" id="6111395">
+				<name>Тонер-картридж Cactus CS-CF363X пурпурный для HP CLJ M552dn/M553dn (9500стр.)</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Cactus</vendor>
+				<vendorCode>CS-CF363X</vendorCode>
+				<model>CS-CF363X</model>
+			</offer>
+			<offer available="true" id="6111396">
+				<name>Patriot Memory SL 16 ГБ DDR4 2400 МГц SODIMM CL17 PSD416G24002S</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot</vendor>
+				<vendorCode>PSD416G24002S</vendorCode>
+				<model>PSD416G24002S</model>
+			</offer>
+			<offer available="true" id="6111397">
+				<name>Оперативная память Patriot Memory PSD416G26662 DDR4 16Gb 2666MHz RTL PC4-21300 CL19</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot</vendor>
+				<vendorCode>PSD416G26662</vendorCode>
+				<model>PSD416G26662</model>
+			</offer>
+			<offer available="true" id="6111398">
+				<name>Память DDR4 4Gb 2400MHz Patriot PSD44G240081S Signature RTL PC4-19200 CL17 SO-DIMM 260-pin 1.2В single rank Ret</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot</vendor>
+				<vendorCode>PSD44G240081S</vendorCode>
+				<model>PSD44G240081S</model>
+			</offer>
+			<offer available="true" id="6111399">
+				<name>Память DDR4 2x8Gb 3200MHz Patriot PVR416G320C6K Viper RGB RTL Gaming PC4-25600 CL16 DIMM 288-pin 1.35В kit single rank с радиатором Ret</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot</vendor>
+				<vendorCode>PVR416G320C6K</vendorCode>
+				<model>PVR416G320C6K</model>
+			</offer>
+			<offer available="true" id="6111400">
+				<name>Оперативная память Patriot Viper 4 Steel (PVS416G300C6K) 16 ГБ</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot</vendor>
+				<vendorCode>PVS416G300C6K</vendorCode>
+				<model>PVS416G300C6K</model>
+			</offer>
+			<offer available="true" id="6111401">
+				<name>Оперативная память Patriot Viper 4 Steel [PVS416G360C7K] 16 ГБ</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot Memory</vendor>
+				<vendorCode>PVS416G360C7K</vendorCode>
+				<model>PVS416G360C7K</model>
+			</offer>
+			<offer available="true" id="6111402">
+				<name>Оперативная память Patriot Viper 4 [PV416G373C7K] 16 ГБ</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot Memory</vendor>
+				<vendorCode>PVS416G373C7K</vendorCode>
+				<model>PVS416G373C7K</model>
+			</offer>
+			<offer available="true" id="6111403">
+				<name>Оперативная память DDR4 8Gb 3000MHz Patriot PVS48G300C6 RTL PC4-24000 CL16 DIMM 288-pin 1.35В single rank</name>
+				<price>999999</price>
+				<categoryId>40</categoryId>
+				<vendor>Patriot</vendor>
+				<vendorCode>PVS48G300C6</vendorCode>
+				<model>PVS48G300C6</model>
+			</offer>
+			<offer available="true" id="6111404">
+				<name>Твердотельный накопитель Patriot P300 &lt;P300P128GM28&gt; M.2 128Gb (PCI-E 3.0 x4, up to 1600/600MBs, 29</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Patriot Memory</vendor>
+				<vendorCode>P300P128GM28</vendorCode>
+				<model>P300P128GM28</model>
+			</offer>
+			<offer available="true" id="6111405">
+				<name>Твердотельный накопитель Kingston KC600 512Gb SKC600/512G</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Kingston</vendor>
+				<vendorCode>SKC600/512G</vendorCode>
+				<model>SKC600/512G</model>
+			</offer>
+			<offer available="true" id="6111406">
+				<name>Patriot Memory P300 1Tb P300P1TBM28</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Patriot Memory</vendor>
+				<vendorCode>P300P1TBM28</vendorCode>
+				<model>P300P1TBM28</model>
+			</offer>
+			<offer available="true" id="6111407">
+				<name>Твердотельный накопитель AMD SATA III 480Gb R5M480G8 Radeon M.2 2280</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>AMD</vendor>
+				<vendorCode>R5M480G8</vendorCode>
+				<model>R5M480G8</model>
+			</offer>
+			<offer available="true" id="6111408">
+				<name>Накопитель SSD Patriot SATA III 1Tb P210S1TB25 P210 2.5"</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Patriot</vendor>
+				<vendorCode>P210S1TB25</vendorCode>
+				<model>P210S1TB25</model>
+			</offer>
+			<offer available="true" id="6111409">
+				<name>Накопитель SSD Patriot SATA III 2Tb P210S2TB25 P210 2.5"</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Patriot</vendor>
+				<vendorCode>P210S2TB25</vendorCode>
+				<model>P210S2TB25</model>
+			</offer>
+			<offer available="true" id="6111410">
+				<name>Твердотельный накопитель SSD Silicon Power M.2 2280 A55 128Gb SP128GBSS3A55M28</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Silicon Power</vendor>
+				<vendorCode>SP128GBSS3A55M28</vendorCode>
+				<model>SP128GBSS3A55M28</model>
+			</offer>
+			<offer available="true" id="6111411">
+				<name>Накопитель SSD Silicon Power SATA III 256Gb SP256GBSS3A55M28 A55 M.2 2280</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Silicon Power</vendor>
+				<vendorCode>SP256GBSS3A55M28</vendorCode>
+				<model>SP256GBSS3A55M28</model>
+			</offer>
+			<offer available="true" id="6111412">
+				<name>Твердотельныый накопитель A-Data SX8100NP 2Tb ASX8100NP-2TT-C</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>A-Data</vendor>
+				<vendorCode>ASX8100NP-2TT-C</vendorCode>
+				<model>ASX8100NP-2TT-C</model>
+			</offer>
+			<offer available="true" id="6111413">
+				<name>Твердотельный внутренний диск SSD A-Data 240GB Ultimate SU650, R/W - 550/500 MB/s, (M.2), 2280,</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>A-Data</vendor>
+				<vendorCode>ASU650NS38-240GT-C</vendorCode>
+				<model>ASU650NS38-240GT-C</model>
+			</offer>
+			<offer available="true" id="6111414">
+				<name>Накопитель SSD Dell 1x960Gb SAS для 14G 400-AXQU Hot Swapp 2.5 Read Intensive 400-AXQU</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>Dell</vendor>
+				<vendorCode>400-AXQU</vendorCode>
+				<model>400-AXQU</model>
+			</offer>
+			<offer available="true" id="6111415">
+				<name>Твердотельный накопитель SSD 2.5" Samsung 2.0Tb 870 QVO Series &lt;MZ-77Q2T0BW&gt; (SATA3, up to 560/530MBs, 98000 IOPs, 3D QLC, DDR4 2Gb, MGX, 7mm)</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Samsung</vendor>
+				<vendorCode>MZ-77Q2T0BW</vendorCode>
+				<model>MZ-77Q2T0BW</model>
+			</offer>
+			<offer available="true" id="6111416">
+				<name>Материнская плата Asus PRIME A520M-A II Soc-AM4 AMD A520 4xDDR4 mATX AC`97 8ch(7.1) GbLAN RAID+VGA+HDMI+DP</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>ASROCK</vendor>
+				<vendorCode>PRIME A520M-A II</vendorCode>
+				<model>PRIME A520M-A II</model>
+			</offer>
+			<offer available="true" id="6111417">
+				<name>Материнская плата Asus TUF GAMING B550M-E Soc-AM4 AMD B550 4xDDR4 mATX AC`97 8ch(7.1) GbLAN RAID+VGA+HDMI+DP</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>TUF GAMING B550M-E</vendorCode>
+				<model>TUF GAMING B550M-E</model>
+			</offer>
+			<offer available="true" id="6111418">
+				<name>Материнская плата Asus TUF GAMING B550M-E WIFI Soc-AM4 AMD B550 4xDDR4 mATX AC`97 8ch(7.1) GbLAN RAID+VGA+HDMI+DP</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>TUF GAMING B550M-E WIFI</vendorCode>
+				<model>TUF GAMING B550M-E WIFI</model>
+			</offer>
+			<offer available="true" id="6111419">
+				<name>Материнская плата MSI Z590-A PRO Soc-1200 Intel Z590 4xDDR4 ATX AC`97 8ch(7.1) 2.5Gg RAID+HDMI+DP</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>MSI</vendor>
+				<vendorCode>Z590-A PRO</vendorCode>
+				<model>Z590-A PRO</model>
+			</offer>
+			<offer available="true" id="6111420">
+				<name>Материнская плата ASUS ROG Strix Z690-F Gaming WiFi</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>ROG Strix Z690-F Gaming WiFi</vendorCode>
+				<model>ROG Strix Z690-F Gaming WiFi</model>
+			</offer>
+			<offer available="true" id="6111421">
+				<name>Материнская плата GigaByte Z690 Gaming X DDR4</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>Z690 Gaming X DDR4</vendorCode>
+				<model>Z690 Gaming X DDR4</model>
+			</offer>
+			<offer available="true" id="6111422">
+				<name>Материнская плата Asus PRIME Z690M-PLUS D4 Soc-1700 Intel Z690 4xDDR4 mATX AC`97 8ch(7.1) GbLAN RAID+DVI+HDMI+DP</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>PRIME Z690M-PLUS D4</vendorCode>
+				<model>PRIME Z690M-PLUS D4</model>
+			</offer>
+			<offer available="true" id="6111423">
+				<name>Материнская плата Asus ROG MAXIMUS Z690 HERO Soc-1700 Intel Z690 4xDDR5 ATX AC`97 8ch(7.1) 2x2.5Gg RAID+HDMI</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>ROG MAXIMUS Z690 HERO</vendorCode>
+				<model>ROG MAXIMUS Z690 HERO</model>
+			</offer>
+			<offer available="true" id="6111424">
+				<name>Материнская плата ASUS TUF GAMING Z690-PLUS D4 LGA1700 ATX 4xDDR4 2xPCIEx16 PCIEx4 2xPCIEx1 4xM.2 HDMI DP 2.5GLAN</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>TUF GAMING Z690-PLUS D4</vendorCode>
+				<model>TUF GAMING Z690-PLUS D4</model>
+			</offer>
+			<offer available="true" id="6111425">
+				<name>Материнская плата ASUS TUF Gaming Z690-Plus WiFi D4</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>TUF Gaming Z690-Plus WiFi D4</vendorCode>
+				<model>TUF Gaming Z690-Plus WiFi D4</model>
+			</offer>
+			<offer available="true" id="6111426">
+				<name>Материнская плата MSI MPG Z690 CARBON WIFI Soc-1700 Intel Z690 4xDDR5 ATX AC`97 8ch(7.1) 2.5Gg RAID+HDMI+DP</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>MSI</vendor>
+				<vendorCode>MPG Z690 CARBON WIFI</vendorCode>
+				<model>MPG Z690 CARBON WIFI</model>
+			</offer>
+			<offer available="true" id="6111427">
+				<name>Материнская плата MSI MAG Z690 TOMAHAWK WIFI Soc-1700 Intel Z690 4xDDR5 ATX AC`97 8ch(7.1) 2.5Gg RAID+HDMI+DP</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>MSI</vendor>
+				<vendorCode>MAG Z690 TOMAHAWK WIFI</vendorCode>
+				<model>MAG Z690 TOMAHAWK WIFI</model>
+			</offer>
+			<offer available="true" id="6111428">
+				<name>Материнская плата ASUS ROG Strix Z690-A Gaming WiFi D</name>
+				<price>999999</price>
+				<categoryId>13</categoryId>
+				<vendor>Asus</vendor>
+				<vendorCode>ROG Strix Z690-A Gaming WiFi D</vendorCode>
+				<model>ROG Strix Z690-A Gaming WiFi D</model>
+			</offer>
+			<offer available="true" id="6111429">
+				<name>Твердотельный накопитель GIGABYTE 240 ГБ SATA GP-GSTFS31240GNTD (2)</name>
+				<price>999999</price>
+				<categoryId>3</categoryId>
+				<vendor>Gigabyte</vendor>
+				<vendorCode>GP-GSTFS31240GNTD</vendorCode>
+				<model>GP-GSTFS31240GNTD</model>
+			</offer>
+			<offer available="true" id="6111430">
+				<name>Игровая мышь Razer Basilisk X Hyperspeed</name>
+				<price>999999</price>
+				<categoryId>51</categoryId>
+				<vendor>Razer</vendor>
+				<vendorCode>RZ01-03150100-R3G1</vendorCode>
+				<model>RZ01-03150100-R3G1</model>
+			</offer>
+			<offer available="true" id="6111431">
+				<name>Чайник Scarlett SC-EK27G82, Black</name>
+				<price>999999</price>
+				<categoryId>90</categoryId>
+				<vendor>Scarlett</vendor>
+				<vendorCode>SC-EK27G82</vendorCode>
+				<model>SC-EK27G82</model>
+			</offer>
+			<offer available="true" id="6111432">
+				<name>Чайник BOSCH TWK 3A011</name>
+				<price>999999</price>
+				<categoryId>90</categoryId>
+				<vendor>Bosch</vendor>
+				<vendorCode>TWK3A011</vendorCode>
+				<model>TWK3A011</model>
+			</offer>
+			<offer available="true" id="6111433">
+				<name>Тостер Bosch TAT8612, Green</name>
+				<price>999999</price>
+				<categoryId>20</categoryId>
+				<vendor>Bosch</vendor>
+				<vendorCode>TAT8612</vendorCode>
+				<model>TAT8612</model>
+			</offer>
+			<offer available="true" id="6111434">
+				<name>Стиральный порошок TIDE Автомат Color, 6кг</name>
+				<price>999999</price>
+				<categoryId>318</categoryId>
+				<vendor>TIDE</vendor>
+				<vendorCode>81722960</vendorCode>
+				<model>81722960</model>
+			</offer>
+			<offer available="true" id="6111435">
+				<name>Станок для заточки универсальный ЗУБР ПСТ-200</name>
+				<price>999999</price>
+				<categoryId>349</categoryId>
+				<vendor>Зубр</vendor>
+				<vendorCode>ПСТ-200</vendorCode>
+				<model>ПСТ-200</model>
+			</offer>
+			<offer available="true" id="6111436">
+				<name>Чайник Bosch TWK7502, Turquoise</name>
+				<price>999999</price>
+				<categoryId>90</categoryId>
+				<vendor>Bosch</vendor>
+				<vendorCode>TWK7502</vendorCode>
+				<model>TWK7502</model>
+			</offer>
+			<offer available="true" id="6111437">
+				<name>Лампа автомобильная светодиодная Sho-Me ALPHA-0505 T10 12В 2Вт (упак.:2шт) 5000K</name>
+				<price>999999</price>
+				<categoryId>113</categoryId>
+				<vendor>SHO-ME</vendor>
+				<vendorCode>ALPHA-0505					</vendorCode>
+				<model>ALPHA-0505					</model>
+			</offer>
+			<offer available="true" id="6111438">
+				<name>Мультиварка Polaris PMC 0524, Black/Silver</name>
+				<price>999999</price>
+				<categoryId>6</categoryId>
+				<vendor>Polaris</vendor>
+				<vendorCode>PMC 0524</vendorCode>
+				<model>PMC 0524</model>
+			</offer>
+			<offer available="true" id="6111439">
+				<name>Жесткий диск Seagate Barracuda 1Tb ST1000LM048</name>
+				<price>999999</price>
+				<categoryId>89</categoryId>
+				<vendor>Seagate</vendor>
+				<vendorCode>ST1000LM048</vendorCode>
+				<model>ST1000LM048</model>
+			</offer>
+			<offer available="true" id="6111440">
+				<name>Внешний корпус для HDD/SSD AgeStar 3UB2P6C SATA III, Transparent</name>
+				<price>999999</price>
+				<categoryId>134</categoryId>
+				<vendor>Agestar</vendor>
+				<vendorCode>3UB2P6C</vendorCode>
+				<model>3UB2P6C</model>
+			</offer>
+			<offer available="true" id="6111441">
+				<name>Клавиатура Logitech Keys-To-Go, Pink (920-010122)</name>
+				<price>999999</price>
+				<categoryId>56</categoryId>
+				<vendor>Logitech</vendor>
+				<vendorCode>920-010122</vendorCode>
+				<model>920-010122</model>
+			</offer>
+			<offer available="true" id="6111442">
+				<name>Монитор AOC e970Swn, Black</name>
+				<price>999999</price>
+				<categoryId>1</categoryId>
+				<vendor>AOC</vendor>
+				<vendorCode>e970Swn</vendorCode>
+				<model>e970Swn</model>
+			</offer>
+			<offer available="true" id="6111443">
+				<name>Напольный вентилятор Scarlett SC-SF111B20, White</name>
+				<price>999999</price>
+				<categoryId>221</categoryId>
+				<vendor>Scarlett</vendor>
+				<vendorCode>SC-SF111B20</vendorCode>
+				<model>SC-SF111B20</model>
+			</offer>
+			<offer available="true" id="6111444">
+				<name>Колонки автомобильные Phantom PS-132 (2012001)</name>
+				<price>999999</price>
+				<categoryId>284</categoryId>
+				<vendor>PHANTOM</vendor>
+				<vendorCode>2012001</vendorCode>
+				<model>2012001</model>
+			</offer>
+			<offer available="true" id="6111445">
+				<name>Термос Арктика 101-1000P 1л., Silver (101-1000P/SIL)</name>
+				<price>999999</price>
+				<categoryId>340</categoryId>
+				<vendor>АРКТИКА</vendor>
+				<vendorCode>101-1000P/SIL</vendorCode>
+				<model>101-1000P/SIL</model>
+			</offer>
+			<offer available="true" id="6111446">
+				<name>Блок питания Falcon Eye FE-1220</name>
+				<price>999999</price>
+				<categoryId>41</categoryId>
+				<vendor>Falcon Eye</vendor>
+				<vendorCode>FE-1220</vendorCode>
+				<model>FE-1220</model>
+			</offer>
+			<offer available="true" id="6111447">
+				<name>Сумка-термос Арктика 010-30 30л., Black/Orange (010-30/BLA)</name>
+				<price>999999</price>
+				<categoryId>340</categoryId>
+				<vendor>АРКТИКА</vendor>
+				<vendorCode>010-30/BLA</vendorCode>
+				<model>010-30/BLA</model>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
