@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2023-11-07 13:11">
+<shop>
+<name>НЭНДО</name>
+<company>Мебельная фабрика НЭНДО</company>
+<url>https://nendo.online</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="125">Мягкая мебель</category>
+<category id="137" parentId="125">Диваны</category>
+<category id="162">Матрасы</category>
+<category id="167" parentId="162">Матрасы анатомические</category>
+<category id="168" parentId="162">Детские матрасы</category>
+</categories>
+<shipment-options>
+<option order-before="18" days="23"/>
+</shipment-options>
+<offers>
+<offer id="5627" available="true"><url>https://nendo.online/catalog/divan-nova-uglovoy/?oid=5627</url><name>Диван НЭНДО Нова Teddy 628 200x140x90</name><price>46100</price><categoryId>137</categoryId><picture>https://nendo.online/upload/iblock/9b5/of2pbc7m43pn5013wp3fm3j73lboa2nc.jpg</picture><vat>NO_VAT</vat><shipment-options><option order-before="18" days="23"/></shipment-options><vendor>НЭНДО</vendor><model>Нова</model><outlets><outlet id="Click_goods" instock="10"/></outlets>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
