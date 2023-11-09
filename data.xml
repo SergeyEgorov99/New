@@ -28,7 +28,7 @@
 					<option order-before="18" days="15"/>
 				</shipment-options>
 				<outlets>
-					<outlet id="1" instock="10"/>
+					<outlet id="1" instock="13"/>
 				</outlets>
 			</offer>
 		</offers>
