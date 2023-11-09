@@ -14,6 +14,9 @@
 			<category id="167" parentId="162">Матрасы анатомические</category>
 			<category id="168" parentId="162">Детские матрасы</category>
 		</categories>
+		<shipment-options>
+			<option order-before="18" days="10"/>
+		</shipment-options>
 		<offers>
 			<offer id="5678" available="true">
 				<url>https://nendo.online/catalog/divan-rio/?oid=5678</url>
@@ -24,9 +27,6 @@
 				<vat>NO_VAT</vat>
 				<vendor>НЭНДО</vendor>
 				<model>RIO</model>
-				<shipment-options>
-					<option order-before="18" days="11"/>
-				</shipment-options>
 				<outlets>
 					<outlet id="1" instock="15"/>
 				</outlets>
