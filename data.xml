@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2023-11-08 09:22">
+	<shop>
+		<name>НЭНДО</name>
+		<company>Мебельная фабрика НЭНДО</company>
+		<url>https://nendo.online</url>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="125">Мягкая мебель</category>
+			<category id="137" parentId="125">Диваны</category>
+			<category id="162">Матрасы</category>
+			<category id="167" parentId="162">Матрасы анатомические</category>
+			<category id="168" parentId="162">Детские матрасы</category>
+		</categories>
+		<shipment-options>
+			<option order-before="18" days="23"/>
+		</shipment-options>
+		<offers>
+			<offer id="5678" available="true">
+				<url>https://nendo.online/catalog/divan-rio/?oid=5678</url>
+				<name>Диван НЭНДО RIO Teddy 628 160x80x92</name>
+				<price>48900</price>
+				<categoryId>137</categoryId>
+				<picture>https://nendo.online/upload/iblock/79c/ftr2kh8jqubsswq3xvkcaesek4ey443y.jpg</picture>
+				<vat>NO_VAT</vat>
+				<shipment-options>
+					<option order-before="18" days="23"/>
+				</shipment-options>
+				<vendor>НЭНДО</vendor>
+				<model>RIO</model>
+				<outlets>
+					<outlet id="1" instock="10"/>
+				</outlets>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
