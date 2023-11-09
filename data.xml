@@ -25,7 +25,7 @@
 				<vendor>НЭНДО</vendor>
 				<model>RIO</model>
 				<shipment-options>
-					<option order-before="18" days="15"/>
+					<option order-before="18" days="14"/>
 				</shipment-options>
 				<outlets>
 					<outlet id="1" instock="13"/>
